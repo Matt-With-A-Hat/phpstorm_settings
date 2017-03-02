@@ -1,0 +1,107 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="40a0ae62-980b-467f-8449-80daf23f5f4b" name="celerity" url="http://localhost/celerity">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4efe20d7-34df-46f0-a535-acd7a51c9f7e" name="OnePager" url="http://localhost/onepager">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9fde8a24-7184-4f43-bd8f-e50fd5b40d16" name="mywordpress" url="http://localhost/mywordpress">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="20328570-0367-4552-908f-0c2c9f5ab43e" name="Pixova" url="http://localhost/pixova">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2b337ab6-725d-4ff3-b875-2bfe544e3f0e" name="Skeleton Tutorial" url="http://localhost/skeleton_tutorial">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e90e2f10-d0e6-4792-a53d-95766ff32dd2" name="wp_castellated" url="http://localhost/wp_castellated">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="50709afc-9eb5-4cd9-b7b3-21bf5943ec15" name="wp_own_theme_tut" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="46695082-c448-49bb-a667-f9816de19e76" name="SASS" url="http://localhost/sass">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8b71da9f-2d6d-4bc8-aad4-35dc9274081f" name="http://localhost:8000/" url="http://localhost:8000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4a0e053c-6f49-4354-a4bf-7315e834b5d4" name="fonty" url="http://localhost/fonty">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="016dab3e-868d-4a74-91cc-019ae9d830ff" name="fonty (1)" url="http://localhost/fonty">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="8167d663-8996-4d57-b29e-35b9f14135e1" name="matontrack" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="98cf3176-1c08-4de7-ad07-a50bb6a499de" name="crazyhorse" url="http://localhost/crazyhorse">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="06ad6a6d-3b7c-427a-be1e-95d1153a1309" name="drupal_test" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="46f359d1-e2ff-4fd2-bf49-55b31a7fd2eb" name="matt@dev.xael.de" url="http://dev.xael.de">
+        <fileTransfer host="dev.xael.de" port="21" rootFolder="/nativespirit">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1d73c3f9-c26e-4d17-9646-d4ee55b39b54" name="ssh.native-spirit.net" url="http://ssh.native-spirit.net">
+        <fileTransfer host="ssh.native-spirit.net" port="22" rootFolder="/customers/e/e/b/native-spirit.net/httpd.www/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e8287b00-85e0-498f-871a-a334d637f680" name="drupal_test2" url="http://localhost/drupal_test2">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="02a0a2f0-11e2-4ac2-baac-cd9ed4d9f88d" name="poolheizungen" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="13c328ee-e8b0-4051-98d0-1a00d6bc8d5a" name="dp_wp_theme" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="5fd0fd42-9794-4855-ae23-aec3a749a932" name="drupal_adel_old" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="637b5735-4568-436b-8fc3-e4107bb3e912" name="Drupal Adel" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="3f4d7ce6-163b-46f1-970d-2199a3dedca1" name="wordpress_tutorial" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7c42b204-ce43-41a2-a377-6cc6002c69a8" name="ssh.dp.native-spirit.net" url="http://ssh.native-spirit.net">
+        <fileTransfer host="ssh.native-spirit.net" port="22" rootFolder="/customers/e/e/b/native-spirit.net/httpd.www/dp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6dad6337-33de-40bc-b1db-8ff6cf06205e" name="All-Inkl" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/mein-rasenroboter.de/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4a960e78-7131-4a0e-b5a6-515fe11e879f" name="DP Joomla" url="http://localhost/dp_joomla">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="62ca1cff-3bc9-46bf-bdd4-5d2380a97445" name="Localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAACILU0IxQCcjGtoO7d1wwpWUz01PfjlVrpLDejUj1EqEI3reW3QCOmeHFqnaAKzNgiu8ic3GukVfNMKgRURC/ICjR2YsfppCp9V+7883F0V58YUa7LLl+YknvW7T5jBoeOEy+VDaEK0AS+BONRRnqRBkU3KfxxDdArO/EJMFu7hCLJGM3UaTXpkr9apUziMPICsHwFH+4lq+YBE8zMGh8mvalUolqRqaBPixxbui+nKBvasLrLXbOc2pgsZ6AstlGdMWC+uGTfUK0iny8c20tlFMQGTKAoadbJ36Oiv380GijRnNQTRF9GVAQwUzmtsha0MW3K/p4aXuDAqKR6ICUaEVidE5AGfAFXaiA0KEUtZ0MfuCtrvnNvIiZaaEN8YyZqVCTmP6c440qh7Tk62FjU9gaOf4WPTkWA1jUr1HdMr/HNWr4RZA9q/tqcPk1s5u98HvNyWkeq2aKWDhxU/q3DU6r3WfssAxu3+GsWuFfLjsPthXfFfIrVuoOB2gL/o7KGNnPJefEzShStV/6ux1kVBn3dANoaOnYhrrCuuQ1na2YF//u07eJ5xu5LZVI438wi0oG95N7dTYjHMUaJrUC6Q8WdTOs65xn2jDCuDU5BCjAUHILypOm+/LBg7sddqhLgViH58Lq/0dBVxzOgNucT0H4Upv5wdgyUszIn0blNlGbAQ6pFjHGvTVPh7CzhWcDhHm/ygY18kW/yLk7Is5v7G7yoOD9WPdLuUuXUs1O9ioYZ</data>
+  </component>
+</application>
