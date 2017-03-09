@@ -5,6 +5,11 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="ChangesView.Revert" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -49,11 +54,18 @@
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
+  <action id="NextTab" />
+  <action id="PreviousTab" />
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
