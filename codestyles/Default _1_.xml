@@ -1,5 +1,5 @@
 <code_scheme name="Default (1)">
-  <option name="RIGHT_MARGIN" value="180" />
+  <option name="RIGHT_MARGIN" value="1000" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
   <PHPCodeStyleSettings>
