@@ -36,21 +36,25 @@
   </action>
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="EditorCodeBlockEndWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_down" />
   </action>
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
-    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+    <keyboard-shortcut first-keystroke="shift ctrl page_up" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
