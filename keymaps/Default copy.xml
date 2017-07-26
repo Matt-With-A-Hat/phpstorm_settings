@@ -5,6 +5,7 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -68,6 +69,9 @@
   <action id="IntroduceConstant" />
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="PublishGroup.CompareLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
