@@ -107,9 +107,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="407c49ff-a7eb-4405-908b-b5189cc9a1d5" name="All Inkl 2" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/maehroboter-guru.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACoO6epjamA3nJkjjqJEsedmfQMKKe3crV97rYQhPK3gzOW7OiT9HwuMJifq+NBi+0wVDG/UM/qqB7qfRmB8+Y4pmB4U8dQ+TsXHg6297ns5uSiOo23tVCBu1xJaAmIjLOcIvWkLweXB65h93y/lXWrnVF3B/3A4I3M9oxDON0vPhZ6X+hwXLdKN1AHWroZdTfNk2/1T/tR4ceLkIoCk26AefXTW63KKC2UTRJRXKelbWiiazjeVqiuGixoTzR/JBIRx+EXJ1J2Ji1j5pn2CVBbVu0T9Ytf7FgyVxiUFXWimivwK6dVeGl8nvyXVKv6+I/NRVuxzzeBe0/numJ7/bxeO+QSBPgEJ6/4m50pvGkZwVyjbdRtSTKXg/nugC0oEuU3vrFzhgAzAI4rMYPMZ/9vNIyR+EFY0cmW6/nUmdMFfJ0JYjYrvyOdIMjoQ1NRS/UZF1kcCmCyUCWlDXnAqxjwO/1zntR2m18m2y7TMvfhNERsERHto7kaSwPlwmRrQFi+gDzkiwIS6+Ws1jhdHvUgceG32wZWImg4xzYkPoYQhbstENoefgjPZfNT6BWt74/aqVfkzB3RAoQLXGm9MW41YaOJlIlnmQmreoYnUJ5p5PWqEJuqdhx5/dpsFvTchWalnVieYkjNqFwzzG5v63Xj6HLzFaYBX4P25IUBI9yI3anuHCX+zQTBiuFIIHBTZ87YhDkXur7ciErNAHtB0nubTxuz5GrTP3cBEhhfn4+U6ka97iPHoseNdMaADXvB+tUOAo1VGjCXJjk3ojyYWzplQQdfk5v3FT3Qz7EOOgLyqmtr0OzxQ/tUJ8z5aktndxAvM4JjnKlv9nanOXHbEaZC3TxTk5SLwIsAqkqGsIET3vuxCBlijrRVH9QvL5IDS/nq6x1YBMU7duE+ZnrXjBNQT8=</data>
+    <data>AAADIHy3ynzET9H2rK2hhc4Bbgm+hl2uNEDcMqKKA5TlG9J10+mdrVvsW4Pwz6RdYZuc2Uj/HD+COG5n4kkB34/uvmjimllchtyKyYQOYZL8s3b/HS3Wv/x9Fa37pf9I5/7R4EO3VuzzC74wUvPvM1E+MTyHTFOiXCIxN04Evp9WIamKwLYgUzEkRaKt9iCWujmLalnu7osPulSqRJOCwQxz2QgJnuDN/hjAScS5Gg4+5Q78yaouJob5uAhp8L7+zEE6MqrTghVkaywvVJ+qkQizS3OeeVEVnrJQVYxeAHqnyOnG6sWSxTiWTyjDjIL+hb257tQ6qi/2O1VcFgYkA5aokbdvW2PSDJD4UcN1LewncUg8QKhk5i0yL1mSCdC2FTDZgPulZS6LtMnNHLQ/BcFztQ5qI7HxLvnNsxgUasV0QKs16dZVz3WJK+ZnUOzMEMplXqYkoglgyblrzeuW9JpZ/w7NpcrW4G13ebKKCKJJB9Ri4qGnvW3emFtBYkEc4QaksWqlkmkX/17WOPTMC7SPOios1LQRv4Q40ok9PO5RN55FW+RCQgqt4H1rmktkaaWrl3c2tSwK2br+tx9nwzvhWrH/iyRqG6eOH13ZFnlfk3YoW/oL164ULgIvea+wv+0qT0hzNTAXuptGL489gXsmwVh6GIfxLGws+4TH4tLug6CjCAK/Hu12/cHBjjS87LCmzFzqb6Ud4hslxjP+rqGv5Opdx2VsX2wXBdNIWx3gYbMQjIuHkOQkndcK8uBY/8xXcKXMH9Cm9CYaynecQx10h9cBtEAyBMbFPh7Taz1KuVTAnHF79wA+4uOvNAZdZpEJZShvZPZDgh5iWh7jrAklWT/2o1icKvYXVXfT1XV5EEjmmm0GrbnJcdfstDDj2XFs5JO7qh6Usf+QQlJkkIBkUFZ+f79zb3dE+EEdMIFVz0xD7/8T5oRQzpS36v+McCFn+TnsVLsRgFmDMdQjZywa2QBqH0bdcgJUY1p6Q7CTYqXgi3WQAKmVfKuCajT4Rkr0A6PcAwmxtexeSU2bWfROheJk7XacnEJeEutqMNoWYVxDO13WF35asrVGpf1ey+6cfQ==</data>
   </component>
 </application>
