@@ -115,9 +115,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="ea45282f-5d03-412a-8128-14f84afb0632" name="wp-apd" url="http://www.refugeek.net/">
+        <fileTransfer host="www.refugeek.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAADIEUtdnU+KoaJSwQWSJjhsPXLRzMwaC4tQiaKdfJDLI2XcboiW0KVLn+ir0yLG6stNRWd5nquhksByHdw2IuIe06VzoMyONyVPVrkICv1ShbLl1u7l2ndA4EIs/4ecisaNixghdG50SOTah+88CFM0K9qD23/A7wdhVHA/GSch3/Gklqr+TTqq5GCV5mnK+USwyOKeKR7wqGbctUmkbl9zxg5mFLWtCbbUSTi6tlqoX87kOOKDEAf5E0vfZnlryuq4wz6c2nMMCzNe9XzfF+zCZv0merP5p6iARuD/h8aGWSFGPFtn+CEUMVdUGECoupPA3SICwD7UjKCishXRjUbuahtH7rjsj3KGnLs3wAzcKRIguNytsq7X9mrF/B2rLs98SEpQMt4RHJMKObnNJ5pg5t7nhUM8zbpeUCrgocj+E4sJaR2KrKHaD4wmoqFEOasE80vYg+57A33WCQGSLsnXZklETDb0L1snAQhJRC8rGGSvVu8MyrN08DtDXsdEfedFo3Eu5SqGDxKxy92Dz2GfxWG538BtO8LIgoUKT1jS41pyo3DNpAJdxZVmfOqa7dFXhSRA5h3liR1EqvshHTs2wMJjwEBP7rtoPIRV5ius5befqxq0aE7XNpt91ArnwByacIPrudUmPvcmssvbH0sa2D3YNvpn02sJpX2mD7ENxN1mmYFCsWBoFEgvB0Iqm6rDzoE++maFXaQDBNs78lgdeu/6T3fKwIFDaiCXzuFWIcxeznIcjXQaU8ljlmzpRZtSMbvYWZEq3+dk6HN3aiTyI4OkBkyG34xeecHzi8c6ghBLOPBooiM4sBV8HdbguP9BPHsXyOEBrawihCMwuaC+kZwIIvHCULYRg/n1mI80uRS/RrSYVwXb5KiRlKwT/QIBUGZyXCvSKQA7OR8B5v4yOJcVTcKBZxF1iGssP/GFzdG5uxqVdBQlprfnl26EUxrHX13goL9PfERKfNM9MWUBQGZKg595NtpV1Dy/tvXNYefSSHUwIUjzCIvFMHycDcDI+VK4/F/4Huj6lj0NGCL+xv+uZe6WgT1z7M0V9pObUJRY4Mng5L0QLSbEWLhzf4sfQ==</data>
+    <data>AAADkNEuMTD7S7qHwcjJi3yktioyzcUifeVG0tk5wwxH1fBuI4SYSbW382j2zwxrvT0PNYvHrHLK2ZfIoWpdD12sTyVgwQDvTrhNLJHtxKUlK4jehb1WHWKxRO1kWD1gCxAoEcDso2vrryMTfTSnaExmrUT1mmhv3A2i4ptKDTAJ+kTV6fTcm29Abd8/wdcvSxtO+yNTMrBOW3M/uC0uZavlr2VCYa21QXlIOwSTSWxevuT9K71bCvKQ7mHGK4CyJGr42O674Tc27TYH8y7PQD121VueYzs60PzTKOjqx85fYt+NL0dmWtub5GqVGcUoXDVHuObyBl+ak/wJ9Ap1x0BzAsfXZRTr8mF2DuiE0HCkL603BVkWy540z6HJBwD5zqZo6cvRwRIjKT7Ie+7Ucg+cL5CjLKd7rQuM+dilwF5Bak7LgnzPh8hOFF5t4+9qstY6/7Y9Fvj9/DSISWQpRRbSYXqirwHXZMQiyY/n3mi1myCEC9CXU13gM+peBNUjjAfGuyjvUosylSVjBfMObxTR2iQdMTBfLA/ELdZnqf7hwXvrfkKmdFErMCsCl7p55QSvkCg+P3X0vPbdTe1nEPajTTqnnVxSAJc5JK3T6TzKIojZ2LrLuCT/6c6urlrIK1BXWNHin1qDqzH8Ue1jQnC5W3PmstnzmV/e5CtIGSiGy6Nfh/erptlWze+ent26TUIDpfVmTh/93VkaOqt6bISoe57Hx5BeYEJAR1rt2MgEPTT8QZDGQxTkm7P4NaZe5H+5zBrwq19Vt1XEN1VFja3gvyFHJOVsC7wHE+U95pb8mvFfl45t2VD2Bkv3J77zPvEUBl6fUMhyQPM4ipxH8qpm74ACz7fI4LGI7dB7OUUtuuVJrXNJAFxuuCmZOktSrelOdK77g2rM3uL6BooQ+tvzZdSFsqT10CISQxHqVuFb2KIMWh8McRPLDkTLV8stsE4kEIGyzfszwz3x2t0vatL0KVN8DfW5XZ/IQmlkpLAIKN++BEhzaT/bjAKShUAds5r4GbPhN8vt4XV8msDtDS7TDgXxZIf/Bjm8BOYw/tImdf8dy2h/tSCQM842H1WR6kKnQFJXqBs1F3tTU0NH/idnOjMOEPGiCgk9HDMTWNS/7ExMwF0G4GEGOTMexW+oUto0pFvQ4L3R9dskhDpcBi4FenygfgtIJsgv1kAlsGcP47DvVQB9fXzAZL7JAUFv6qbuCZbM1A2X3r+JTS/0x82zXM0=</data>
   </component>
 </application>
