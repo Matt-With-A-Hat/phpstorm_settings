@@ -107,7 +107,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="407c49ff-a7eb-4405-908b-b5189cc9a1d5" name="All Inkl 2" url="http://w0154778.kasserver.com">
+      <webServer id="407c49ff-a7eb-4405-908b-b5189cc9a1d5" name="Mähroboter Guru" url="http://w0154778.kasserver.com">
         <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/maehroboter-guru.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
@@ -126,6 +126,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAADkAqtDojSs9HtjY9kKiVnpH+OpEM+6p8JktR3UZyxX++adcBCURpNTf7IUN9jkQq5qS0swgHpbNVJjU0lzwT2XZrJLISmMLIPw5vNRLgZW4kN+16ninvK6es00HaSDahGxe/UoY4Xp0q8YJ0XqUAJvRbo11+J2aSlLPu3pO93nzHDwFvYZbtRO22Kdaz1Ibz3dXQ0+7m8H+C0uAM2lY13QU1Vcvg7n5o34ifxWh/AXMDx4q/hKDEWcDq22L30BDRHkgSfyt40UC2BqKt8T9nRoR87zCVTJOxeaZtffNjcoLGNOOYG7YBiEFLYzNthaqOLwDZRcNQXKFERiCtaX3FjsHYvMcQXrddn9Gi8EAyj4fQIbK2EDeIeesJtVAxcHZZ7HrN3JkfDRf1hsmzgZNuKPIWPc0tU3TK8rV4HY5Ctjn+wyXL8UQ59ySZdympp8+4PpaSEIoUFFMeBJpVCrpuyRVnvo9DOkMUovZmUjpeUwHO4u1qncdqQ5Quf2khWXr10AOjEAiv9OHE84RrwR0pMBcp7rJ1eVCSvTEaXmC5dw7yG33zTKR7M/5c/HIAg3GwyFuzCH5hWWpGeMJqqtQNei/E9IDTywYEqM4zVQEJcWEmXkVx2nMw4qY2MUu8S9DB5mjODBL5XCWcbikUQL/K4b2k7jryXNrw/9Znzvwgt9zeWJJGX0AuGFZeISNR1YxUHAb4QEPYzU4rX1qT5XMzWkrJOFZ2axwo+YZpT/bgAeNaoLBFrwWb7Xh2H67IUHGrGgmDIHdG3XitXKUTvT16ZTZsXrNpVEdh1UyQPJXIaOf+/cvLU3JL5kuJofZ47L9MdTVCncoqxCngkMg25OgElJvHZSXk7ld94210y0Cvh1eKVbzDs+FnViBre/LEfxE27c7eFSOt821SVClqVXJl4WMPv9aG7o6ms1ZbM/sVZ5/HuN8htNiHuWszD7EPwrWN9LmBKQu1bYNCY5szKWNw+YegzrNdHZbFkS9xIw19jMk3ZBEgR+ETrNfUAofSg3Q7JCo44vVV95r8rkHXQLLTVnjytSYj5wpJAm8IQu69g6oKCI4iRLdVMfp2tovpucHB0R9APEUCkGozYK76ID7Mhk95MSLqaKWZeO7zH7xp1Rx2vP4YqV9C70yWVwkx7pBX14V5p+1hD/VXnwP5xqRZP+kmw5fOZfiHN8URauuiYq9PI8Ur7QujGetOQbVAFLcSF5SUNflgvLaOWz6AjUKYxLvI=</data>
+    <data>AAADkKwI5uyB9+reeH08izcrhF3+VdvM8hShXY96YxfKv7Vc3/lYUp8YKVAAvvT18l8LOar1juwFi/VF312PHcEIBAMnrCMK6jrbCnwTHQGtkhaYBTrxpHg9v49utCRqNyhkbGbKbbmf86OhX+5a/NQSDQGwPXXRzb6SzWD9P3FlQ0OJEtza7SZqFHELwfk1OF9qX8ovgxhP/556nMp/+rUDXm9TSo2KN0h9yn2QHDo5Eb85P1MaTJgEM1QNYyZkH9cNQtMCyUIRclBl4D5x5baRTTfSM4dTlF514nRG4q5Gz59BuwHOM5CDCeBkJOOC/pTR1zgF00MWbvOcif0s006EcRo2Ikj6a1FVJPc5lw5+nXESszV25pDdIA7G1Work3hthgLUWe0BaI5wtd0g9kYo+BKVyW4K7s35Q27IuU20UMGv51MYfk8P54mPGAlAUX6F45f6AXFFNHYZLSw7hxgVcNt7I8DmGsjymfbD0rrl1qN7QhKVWA3lE5oADtfqavkeBkB7021eXDIYB5FbDZDPeVMRBjcmhuY2tmdw+FpySv2Nj06kAYTJITnAA2xim1t0ocnNWaKvqjpbOkvcIdr8GMRoV5QI8Ht5VG/FBiBj+9Csw1z+gc0eMYDoN0zAB79Ymuqce/1p7oPbCTOsGMUrvyaXxIztsifHigh0lZNrJtes18rBfgP8mjcY1rhkbg8qYvhidm9wxmWG5qPh6GKITf3g1hLx9SWiFL3A1lArB4OFzxw/G/V/4DNndwLOdNgcg2QHg6OXsPnfSwdWegwXEjT7nNlBjQ6tQPsi7uzMe8w8kqsSHsRQaqYWz5o1DNBpQ0sBPvLXFvHqrKOWCQTWPnL7o8+xKsX2/mwkngCQT7d+ML4NtOPBuYAB56fckB0prtEKg01vayaqOyGf26CBnYN5sylEc5R3EhmXnGeHlkBEMRNrQxoK5GwTt8ihYTSdRIl46qJY62YlY5pRg5XahAD59fh8umT7KIjM//ELmtX8CkJbF0E20HwQhSmRFLRhAHgYEO/LNyC1lhkS3QNz8q+pfVJPvkiXYF+rDd220pDcrp69PV/oJRwzqhi51tRO0FuY4pQRWjBju7UB+mVLn+MSJxoumDp+mX+SRIIG9ireqS5iuIquxa3gMMg9M9FEI/792KsPtK1LdP7LymxzU4eaA66Yu1ctpLNZEFmBiqikdc9jSlwLg6h5/QMKsqCBGxHLBMDoKG3VVQtqSHiNmXc=</data>
   </component>
 </application>
