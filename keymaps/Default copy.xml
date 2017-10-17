@@ -68,12 +68,16 @@
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
   <action id="NextTab" />
+  <action id="OptimizeImports" />
   <action id="PreviousTab" />
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="PublishGroup.SyncLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
