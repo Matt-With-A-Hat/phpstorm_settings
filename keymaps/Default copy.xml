@@ -61,6 +61,7 @@
   <action id="EditorMoveToPageTop" />
   <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorSelectWord" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="Forward">
@@ -71,6 +72,9 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceConstant" />
+  <action id="MarkAsPlainTextAction">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+  </action>
   <action id="NextTab" />
   <action id="OptimizeImports" />
   <action id="PreviousTab" />
