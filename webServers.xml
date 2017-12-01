@@ -71,9 +71,6 @@
       <webServer id="5fd0fd42-9794-4855-ae23-aec3a749a932" name="drupal_adel_old" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="637b5735-4568-436b-8fc3-e4107bb3e912" name="Drupal Adel" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="3f4d7ce6-163b-46f1-970d-2199a3dedca1" name="wordpress_tutorial" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
@@ -126,6 +123,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAADkFZeA4nbPcYSHRMNmCGmnrMqH7KEpNaHOmkH2ZSuM9/C0cqweAomF2xD+1dZhOovx0OLUAH7VRHE99HJGAktVHPjjyq1fD5uR9zVy9etiUZsKcFO2zo1uKsDvaEljHs2T7g6CltfDUBlB2LLJyAyjntCaPiQqpwXoBis48mkvc2FwZuDHEPkzRTV0XHXEvWpwhGE+U+pFsnVPX+vSlE8qq/xm4cdRiWOfqN6D8zuchZeyY3yVCiDS9/uP/8BbryaWq9xzyk2Ff7lgvSytG2Puc2yxdVQ9s8GkhEcqYUMPQSBGDNRWvHzYJDCT91AC28tsc6Ub31RDabe9+iSS71AUlAOvMrS5TRZEtg6i3l4Rh4DsLRIDUbpaUbuBzIHUZdOSHodpCoK8JFEdEPn+muxWNrZn+xY2qHFnmX1pQBXXj2C6IpQXCje6fyzJihPTf+f0CHLxekmNTJ5u9RhSnJ61S/gMTMzN4P3r13sc65MJ9pXVUwEL1QLaldXJE2yj7MCZGVM4JsqxPank9sTJLmPKTAM3F1OBqmwHFDcxmhy/UgB9ions2ea0xnICNq6xhMAlUcxQPzGCbXIEg8wFEdaBUvCxmxUiPOqUxYLlXOEU5I0nlIFahEXn4GJ6w3q07o/FOlvjPqoJDU8s81HtSd84cpbIb8MkTTP5n5/QV+O+sNw78YzMdvpFlxScTwxg680j2LBFthw1h/Vre7d2i2ycqzp4xDTT8ggcHVmDf+Vh7BfXhKOpe/Xza5hg5bnlC1Z5TwxCRpCdsvaUKvYPjHfW6Fn4ZPqObKPuUq1Ow3piwqJIbFx8pkJ3H45Regf4leAYTAXRR9hmmSJsK3VCXwRqRMeOd+RT7mamOOEVBiNGb6KQ+BkiGEvyMXxkrsvlOIwqhNTzQPnZt+fGXDu6ipI5wWaC/g5VsjNJnDDxgGT/KRiiO6AwE6W0tYA+3P+KXYoNtR/hgmxjgyR4HT/Uv5GOAPHcqgFqBXv+dePBHwwT/MmhdBB8tyFM5fBn2h1vWHLeFqha6zLIrK1jUTp6GWDTkDHpPEgDO80/lGkqPYfi/WRQIzxW2bRrltdAbgEFveZa/uTErUCCn/sXxJ6aVwpfr+ZpzYF5Q2/EX6xIvFSTqRodUKcbSX4FtHnUqxtmyxEJQVIPp3i5paquieNng7IaHKCzBMsTitKeOTpCkGEBF5HWqOVRrIHn++4ekKMz4H3yxRrYscn5Dv1+Y94NVRkOVY=</data>
+    <data>AAADkFHz1MWtx9GXkaZeyR5cbOg5UqNB1p99cGWCQSwiwhT6ni3J7RGr5BtOZ6XpZuuribDOBqFVkzbsttlrvkfAxY40vTHcx787J/ckx36Dxu0n9vZ+MwEt/ib/9ySrSlQRyJa2aFkeVL2FVViq0qgDk+R8ZhZUS9gioaSPx+HC6OTa2XjRfECkyyUlKosf6+Eh4HZt0EWF1UnGPbjmRxHVonvGMTEMjCg2Wefx9AJgnKGXbSsL6UEGYugh/YPz4Su8F9QO0PFkjoLbBRn6TFE4xztlGl3IvAKcirrT9hGUXmkeToC0kBYwMCOS+Q+kbOwdLgX7YwTifIY9uPC+SrmrDXivz+5D8mivWjTL0SRHLtrv0nhKYi458L2/D6DCWNQuQaQ++1IH3T0igmCFPscrzwXnLUyWNLpNWJuAJcxkzNjXcATBOcQzG6LA0F9+yYLGCZlPhr8ytLQV9iqTqypCMFDSbFNoZCdN/DgtCiLw3IU7OtFdTi+TOf8tpbVxYDg24dk33buxOMGPG9lD3NPpIOVKA0yx+nY6cHbQLbbyWKZnrNvfDyzVyHe1usLISVVQcFOvM8LMM4fMp565uYcgQiye5yTX9drcaBDzkcKq1ATsyoI++cAPEdSuuCrDsO7IvyN0qF/MEi89Vt2ae4UPsztYuHf9r6/G9eXa8bn047jKAYdlGlNa37p1Ybp7m0xGN/CmIyIrOxLDLc6VQ/CrBWISduv2/ABfFfxk8sqH12yY8wgNjVT49JZ2cM/E/ib3I9RhOLK+2gOicLcMd5uq+yv0Ze8gfYW+dwiplBYrSV8f/ANxASJfQFumwwkH9aWnSatouesleHhmDhygO3gewza8d92F+Myvz/CI7sXD4mn7X2B3xtDTWrAtH9rioFoFbeNqkwbIdpZLdPvswZ6VER/+5jZa4jBetljvOriHMk3gOQv5S7zWa0wdySE7exk2rbeqERFdMuqb/mSOD4nv8pvMJtxo/22GBWUxSmfk8TB0qbRcxpbQyToofP55K5RZGgQnrVEXwSa+EaNOiMjWOsl1fXkOuKA5FFzXsj9+SrWcDulDyOwIw5gcmYiZ+Il/PhWYigqZK69y30s9GiQ7PHOX/KUkPA7B2gLS3A/nSB2GJldNZPy6jd42O8TmtSaNKUF4NEXFMSx7KZflb4xaOpnzqEnDoZ06ex4RHkN3LUuVx+4YjcF9OvyrM0GB4mQF59WBsAIfiF/+aCwvlyjgbgU=</data>
   </component>
 </application>
