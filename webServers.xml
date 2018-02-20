@@ -96,7 +96,7 @@
       <webServer id="62ca1cff-3bc9-46bf-bdd4-5d2380a97445" name="Localhost" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="ca35f3b4-2963-483d-9d24-798b6df5db05" name="Alex Server" url="http://www.refugeek.net/">
+      <webServer id="ca35f3b4-2963-483d-9d24-798b6df5db05" name="Refugeek (Mähroboter)" url="http://www.refugeek.net/">
         <fileTransfer host="www.refugeek.net" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
@@ -144,8 +144,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="cd001be9-414c-4ffa-9067-efc0612fff0f" name="DHL Example" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/dhl.wireless-empire.de">
+      <webServer id="cd001be9-414c-4ffa-9067-efc0612fff0f" name="DHL Example" url="http://w0154778.kasserver.comr">
+        <fileTransfer host="w0154778.kasserver.comr" port="21" rootFolder="/dhl.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -160,9 +160,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c0504201-65c2-4b52-aa9a-097940acb903" name="Refugeek" url="http://www.refugeek.net/">
+        <fileTransfer host="www.refugeek.net" port="21" rootFolder="/libre.refugeek.net">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAFsEPGJjfMmdE/qrlNdrcheV4F6jbV0iEUc3Hh92ZmFr0f4TwyxnubdFXUim60CcaGTNrA+ALB9RoY8Mg+8bjHjYWCkibMR9XK5oCaxsdcgH/P3ru9u7guKCO6AXPV4+hPHe1GrpW1wIXpEXBCvKf0uonVqxUp6ETjmS7/VrxnhEIMR1Q4+EM+7vfw1j29i5vzfKORZ2xAN+LpoBW7XEpiIwm5RSe5iF1MCE6QJ0hGi6rDwn8TPbR+gzFdyWXD0kaE589HGDtb9nD6iQCahGElxOuKrgQwVkCl7TmbqmaKoCdvd/JU4ndt4MAjhYgNz0KzlR7QTW6KGtAdCJxFh4nMKzlj3s73PxgIfkSHet1Hykt/5Yh8KDOxxflpXyrzNzhr9aR0gtZn/doo8xjDcwNb1JffpG4Won/Jj0ETDFTFTlRo834KlNrLMuCNpeAT02ggqoKceubDDs3b0WF27yVhE8Qd9f2XscTOIr1B8tB1Hf5wGy0jrJWS8Z8wwSbWAyoY39dWK2GAXm8USR2lz3fuUxyDUFHu9LkHncWpujgXJfp77ynTDD2wpG28ypCoW7oMDUq/DiV4BRSN/ULB/R2VL0cB8xN6D2qn1XEo1EJzI/yPnfch4+Ng8+2E3wZmYNUU4vQbunm9kbhnPXuJOOvqcrrwE4/xGE532YOZ5EeXwy7TnA0eOuTaiRQTegKcv02xYFdSZOBCKui6jfSXOOk9/n4M0YYxwg+6T+NS1GeVDL+DSUaZsBU2nr1kBdlQXN6LkZAuJBHth+Y1vtcm1Nkkq3o7a9FX4Nq5Mv0JAo2onHPnIspgjymQ5wYktgJgw4qWwDBIGXVFaFJraIUlC5skFqYKaEhl0zpa4iuLdlfNvsS37ERcAdSAJnMcy6HQfSaDIPjX7sed6a3RGM9++irmOex+EOi2AFYNB8InIGceEDSV3fZrl+1wOLvbhTBorwsLFaL1+tH9FHSdbHHjShEZ98DcXX9CX2Q8Bn47ToYw3D9daPUkcezfGN8mfs368Mp8+6c+3ArfQzx5kEg7ljzULKtDR4kJHfupKgCjFZGxasq8vpR0SWg70wUP4YqHhGw8Zz6WSN+rsCZMMv0SvMtwmdQY1H5YElZw2rmF7cSsszFK6NyAYNgsx6elh63zsM5uqwvEHSgovIRZnaBkirE8f77UU5qir9mlyL7G/Lu6zZxU1iItOfhxo5djbViUoQcw4tmMdPYR2e3Hap21WWQZ0W0bAtUpGzLjxKAo+Q1Q/G1eFv1CXc6jyXHjZj9g4Lkffx8xGLHcwDqMyv01uehCcNVVQv8BMk36wX1ioJoql4WqmyMg62KvP73CRzPSThmyAnKaS9pixR6jfb1KOrfLjL5AMFITdJdIDgX8QA1C5L8VkaMIce1ZGW6lAafnPBCAU2X3i5wRWS7+0sfRot0wdehlTih/c12me/yKIvSGXbzl/4EDbPv7Cnj4JiOemU8DTNagGDwhirKs/QUhOaJGTLVKSKWSW/HJB/gvdvF9lG8udvQoySA1Tle2vhVHKF/me03Y+FFNdoJ7/BklNfjXDB6Acy1QlYPLPcAWXui5pXludu8ZMJ/5pnJ7+5yc84MZfu6zKQw84jMkFpB3l+DQkBt7d+o3QkIjAdfquvXAlUvH8EiYySP+g7H0KqExsFgtaFZfnlprYAH37i8cMTy21K0KOB8JvG55iwMMAQ9i+ybPv2xIg1xR3t5UanrkDiLLVeOjNeXNu9QaxTjNBUWgvGPufQkDmroTNHl66VBexOAfoO+9e3hBp28lSA3o6V0IlYkA7jsFltsEZ/JD7mgQNWFR97+zqdHXcQ8FYXFp1c5vwpK1WvgLj2QLr/+fcZmhiO6W+jQryeM+D9wATBHjfjV8pcb1ezpV5aaveWQzJQjxh+DvCN5LV2euWICvaY+5eLBIvJoQwvZli4NSW+R1uBMh1UatFcF3q4RSpnB8J538</data>
+    <data>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</data>
   </component>
 </application>
