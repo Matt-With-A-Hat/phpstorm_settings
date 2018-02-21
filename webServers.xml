@@ -1,9 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="40a0ae62-980b-467f-8449-80daf23f5f4b" name="celerity" url="http://localhost/celerity">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="4efe20d7-34df-46f0-a535-acd7a51c9f7e" name="OnePager" url="http://localhost/onepager">
         <fileTransfer accessType="LOCAL" />
       </webServer>
@@ -13,31 +10,13 @@
       <webServer id="20328570-0367-4552-908f-0c2c9f5ab43e" name="Pixova" url="http://localhost/pixova">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="2b337ab6-725d-4ff3-b875-2bfe544e3f0e" name="Skeleton Tutorial" url="http://localhost/skeleton_tutorial">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="e90e2f10-d0e6-4792-a53d-95766ff32dd2" name="wp_castellated" url="http://localhost/wp_castellated">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="50709afc-9eb5-4cd9-b7b3-21bf5943ec15" name="wp_own_theme_tut" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="46695082-c448-49bb-a667-f9816de19e76" name="SASS" url="http://localhost/sass">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="8b71da9f-2d6d-4bc8-aad4-35dc9274081f" name="http://localhost:8000/" url="http://localhost:8000">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="4a0e053c-6f49-4354-a4bf-7315e834b5d4" name="fonty" url="http://localhost/fonty">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="016dab3e-868d-4a74-91cc-019ae9d830ff" name="fonty (1)" url="http://localhost/fonty">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="8167d663-8996-4d57-b29e-35b9f14135e1" name="matontrack" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="98cf3176-1c08-4de7-ad07-a50bb6a499de" name="crazyhorse" url="http://localhost/crazyhorse">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="06ad6a6d-3b7c-427a-be1e-95d1153a1309" name="drupal_test" url="http://localhost">
@@ -171,6 +150,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>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</data>
+    <data>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</data>
   </component>
 </application>
