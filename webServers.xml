@@ -1,19 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4efe20d7-34df-46f0-a535-acd7a51c9f7e" name="OnePager" url="http://localhost/onepager">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="9fde8a24-7184-4f43-bd8f-e50fd5b40d16" name="mywordpress" url="http://localhost/mywordpress">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
       <webServer id="20328570-0367-4552-908f-0c2c9f5ab43e" name="Pixova" url="http://localhost/pixova">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="e90e2f10-d0e6-4792-a53d-95766ff32dd2" name="wp_castellated" url="http://localhost/wp_castellated">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="50709afc-9eb5-4cd9-b7b3-21bf5943ec15" name="wp_own_theme_tut" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="8b71da9f-2d6d-4bc8-aad4-35dc9274081f" name="http://localhost:8000/" url="http://localhost:8000">
@@ -30,18 +18,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="1d73c3f9-c26e-4d17-9646-d4ee55b39b54" name="ssh.native-spirit.net" url="http://ssh.native-spirit.net">
-        <fileTransfer host="ssh.native-spirit.net" port="22" rootFolder="/customers/e/e/b/native-spirit.net/httpd.www/" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="e8287b00-85e0-498f-871a-a334d637f680" name="drupal_test2" url="http://localhost/drupal_test2">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="02a0a2f0-11e2-4ac2-baac-cd9ed4d9f88d" name="poolheizungen" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="13c328ee-e8b0-4051-98d0-1a00d6bc8d5a" name="dp_wp_theme" url="http://localhost">
@@ -52,14 +29,6 @@
       </webServer>
       <webServer id="3f4d7ce6-163b-46f1-970d-2199a3dedca1" name="wordpress_tutorial" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
-      </webServer>
-      <webServer id="7c42b204-ce43-41a2-a377-6cc6002c69a8" name="ssh.dp.native-spirit.net" url="http://ssh.native-spirit.net">
-        <fileTransfer host="ssh.native-spirit.net" port="22" rootFolder="/customers/e/e/b/native-spirit.net/httpd.www/dp" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
       </webServer>
       <webServer id="6dad6337-33de-40bc-b1db-8ff6cf06205e" name="Mein Rasenroboter" url="http://w0154778.kasserver.com">
         <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/mein-rasenroboter.de/">
@@ -150,6 +119,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>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</data>
+    <data>AAAFEJvbB5jC4Rhg3/ETdvKaPA5LkO0YANuGocRqIHMHW2oW8hvkZ9vtYkYFrhA0BXVEjMd0W+RqYeAgeHdVaigNzKtbDbdXDHov6CGIKRCapItgcC1g8yIxv0X15XXMJExAHn+Vw/QFyG54dryRTeQ0xmkGbZwUulRLjh7PkyIp6QiwUw8il4dyQz4aiV78J1MSDF/N+W1Wyx1C4tGjY4XH9N30NjyDcuOSYD8qmeMQe8aegnaKVRu2HeylUbIn5ab78qyN0TgT71DuBlw5KqJzH1pQ3cYo7HltjXFsPW7J9GxXpeRdXcS2VW8WDaB/1lI60ec4gVXAc0yxYnEwd8PdAothuAHNJf1bgVMYYVW3RKbmLkXBOT8Y9+IOazFpx5M1TTbBin9xmyUYuQ0Iz1lrt2AorM9hAR0kSFI/KS+cW4SBSBr+gPHpxVYoQJWposXLQLUk2TJPX3OEL5nXWmpAW6PJkPe0fwg+CdOo5D+Ke8q2ga/qOpI40lGab7GfmKc2EVOJr2kbcfhy3Sj7zhQ1s0dMEVRi/q6+rQY0JtSBjbv/oKB//Us6XG3mcBZY4V9LXHl/Blfs0AkqnjOzKXYqqzxVX2ROE8UhsS0dkNDOH9HhxUfY97fltHUhABMnuZY023f9zI8YhB2wJ8Ju9gb4zccb8PZV6Wa1ECsoR2Dqli6aRC2OKSzVyWPTnPoyPxJ+5Lg9XVJtZpDnMA6xBmkbAx3JsGjqmqnQvQqTmGdZtXtq59LZC9pql9RK5C9+pBhJXS8wXA3buCgC6LPMx5RKoL5lUdD55wXyAVammxcZ6FRn0RtX9Yss0lBPKx1BVIr52UL3Rg4k7Ks67Dv489htj9ckDox0QLzLKD3A8fLt9Zz//27kgZB7CnEjQa9ExwXmpzJNo4u0pymlySvZLxvzjUIG+4jFfY5JEcoLU5AQdDdKZ3/hLCjl0BnEKYJdPd5vHLZjuw2wHa6peK1aWPDU7Dswh7UwDWy8mnH/OHN85kaYBdlhEhJzeLaNN+g9JnGrnAa2Z31tPSfIPtVc7zbhQmo8O+srEBXG4wvIEssmwWjAxl+q3FlEprLSuN5RqTtRYH1xWDZwqp91B+KwVe3cHQ7QINZTP8kEzgvbK8+TG3/cSH8qNrW4Hc4v98P/n15yqI/eQRP8ggB0hBcVyKSCAGQgBb9T374f7AOtmKDgJNJ63gnm8OOQTsxWfOAMJrCq5batI+4yymP41O6Ghbd7bIFlnl8rgSFd5ZAWFXQ2JFU7K2h08MSURVttgHJgjt0OJkIMDvlHDDJVOnb6GkPxaprzzjjCt4qBc3wa8VP902jDxtvUPx4x2ROwY8N68I3m5s95nBTkA7xRFx3MiNUoMnY4yIJONHpBUKMSePUKBfe9QcKPppnL9ADVaqryk9U43jXBzn+QbwcK3ryD3P/hJutOHKlhKvYdNtZVMSxXE2vfD42i+eoYeAgkiRzX3Q+WEPKvqnUEsV+h366KWMnv4EkpSHiCCSqggmMpcWipj189zqt0ILMhez0AZ0X5U1wj5dYauBSp6ksne1c6FqHgMWXJ3CN5jIYLvPA9LBLwjF4TnDARI/F82llmUrEHrb+mxEaZb0drMgTbtCDVDWNARuh4Pp/UrGdrKiiIuMNjOrxYLYyx2fOaLoRG1v9XRPkVeluuhjxwRf36zdI45wkqfLHoAJ76RknLGu1mSdrhs9vDMd6CLiOxMu2rGKvXE0eOVWdUMhYg1TMReQ+pT2WeHt8=</data>
   </component>
 </application>
