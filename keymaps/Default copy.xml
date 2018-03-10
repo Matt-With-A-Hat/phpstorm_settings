@@ -33,6 +33,7 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="Editor Redo">
@@ -84,7 +85,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
   <action id="PublishGroup.Download">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
