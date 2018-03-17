@@ -52,7 +52,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="407c49ff-a7eb-4405-908b-b5189cc9a1d5" name="Mähroboter Guru" url="http://w0154778.kasserver.com">
+      <webServer id="407c49ff-a7eb-4405-908b-b5189cc9a1d5" name="maehroboter-guru.de" url="http://w0154778.kasserver.com">
         <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/maehroboter-guru.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
@@ -124,9 +124,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="adc66921-938a-4b37-b073-8852dc528c31" name="dev.maehroboter-guru.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/dev.maehroboter-guru.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAFkNa2cWmwkxeGWHrq6b3cAe4qlHrjcmxNmA7fPnWvYJ8Ze+Fnc7AtQBUH2vQP8UpkUEbTt6xPq1LIwq4zYhkplWY6qmMywXLdbV0Pkp0qblOpyZWTeBLzgHQHDWbbopFK45t3I32cQjzGVeImgT3tIz+MHsowPqSmjMmXNoZy8f389WBr1sTAffTmAD9S1hDh8qYZUtXYPh6XkyGgcrHl3/2wZ6RKQbr4LhK+Hp16qhguLBGK7MVWTVsJlmkQXDK6i3l6pCCm45ZVXoCG5ETam4qlwkZOnQnrKQJzIN6kyvVuPOvTaA3e10BDqr1Xmzh4L884jlOYbnQes7V38tgogKgYaSQoIJ1wwq8s2CPLgs0jKewnwDSmTCkFE9D5BUAXctsH9ryfxO9JNmX857tNUBl2hFT0FZWnkwcSuAM1WWEYkPVqtWUbKhMf3qV2BWERx7vjz9DOpceafb0ubsI5KrNHMpkE6uE3PJhjAKcRBQxr48RuRWJhmgO/PuoofAbGo0e8VXM8lUfzKovAGJTK7pVgsklJQ1seGBKouz54RTajPSNVUe2d+tFgHvZrfFJN2m6adiEzArHPgn3qoixaj7YP6A/t1hLvFOpykp+TOdZGZuvSGHSDSGTBzsLf3tdYGxru9XXESoYgECb8i+pfeyQYQt0VC2BohrP7eNU2Acorl3gIxI6IP6ZUFZW27xkpV2GD9TRbl51KleFxwfE0rXogoN7ctli0Boj1Lza9jiviStQ1U/fzXDYzoZesiHhIaPtRHoj5/ZViGkoT7kGcplt+gypgh6MpdVTqz8pBvadEqfcM+DxsuooRMtej9Iv3QxS4H9ZRF/Tyvdn26F+5CEFZpNhIQZ0cBibqF5GTdy/j0XkzxAwAdfzWd9Kzw5DCBUisZgu1iuH8aajAwKAbXbrUJrU9Yv4h7czKYyh9UCF2pFsz6gaj5KNE/tf722d646kUwdEIibrtUVg1vlMI96AyRChCLIwKHM5u1KR8rDQBXsZk1epqajVO/OTpB5q8QJX9/14NcXgB4JbSQkrdK8eEjx0xzLCVI51b2daXdlkj9Ykuodf3qT/09dE6mfMmwlQqChNj93zmG4pqHBBHZBlZm/7dT6S/gpBtF1qefOo4hbrR1NJLgYTj4k0MmzqLl7msD3aAxR7CVdtns8d3QyROewffPBKfGH/6ZdVz6gHSUahCDch0iZB7v4cVR9+sJ3oCXucz5iMeyqCAQJ49ZMWlDj0c/AI/FOQrFh2wUkxLElFzXmg6zPc6xi9rD+FdPNeZSKYfdnq21vu7z1Ly+LHm82RPORqprk9ZPU0NzU/5s0pK4NlQ26UnXyTwruTPje8ZbbzURsVpvkRH0FsdgLqRWc2C9nIoxeZ9rEUq8O7LaaK6OiM+94rGJupQSiWI4nMNKeZb3mqJKzz+0UukPcCdhCKYQhdyNQm71BVSMLn1r6wK4JsKvRasTPTwFjWhjxeTJCN8MTn9qXmm1YL1z0txCZyoO2T8QlsPh9GS+dAvnOEATuBFfamOpE+1Zgvh4UI96q3a6ZZobLuCOOCP6moxF7C9hnmR7elqRWO0AhtFGUt2yef+c8dhVb6wAmymKym80jyEXrZ1ZkKM36R/qr31I6tgb1CL8aHqH8+uhzFrs9WaSAhKIKBqjVRCXIoAr1tUKwPwPi+gdZuupp1EliUStxUU1OnVwKRL7//7coXgGn0gIJIcIcgzwWYE+uEp2nK2Hzh/YqYVi7PLYkDNC5mhMy4CNkbojgJdqvn6vFGQVXQd4Ac5WlbxMLhYfmnb7zwEh1eAXeQxka8oQVeGfKCE0vnl/30JSsHAal5969dURjoD6PK5DIrx1mvB83tOEAFa03aIK3T+fnvsB7LyTDMhR3OxPcAurJzLLp1X6YhU4XQ4USOg78GvPrkp3RMahg==</data>
+    <data>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</data>
   </component>
 </application>
