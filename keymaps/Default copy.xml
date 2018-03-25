@@ -120,4 +120,9 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Vcs.RollbackChangedLines" />
+  <action id="context.save" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="shift alt l" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
 </keymap>
