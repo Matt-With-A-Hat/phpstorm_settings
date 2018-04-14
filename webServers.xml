@@ -87,7 +87,7 @@
       <webServer id="cd001be9-414c-4ffa-9067-efc0612fff0f" name="DHL Example" url="http://w0154778.kasserver.com">
         <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/dhl.wireless-empire.de">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
@@ -124,9 +124,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="caabe321-2e2e-40ea-b55d-0d2e98248577" name="metzgerei-gladbach.wireless-empire.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/metzgerei-gladbach.wireless-empire.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAFkDbFza5FyUdkTgYSOEWVJ9ZYeKFAod/QdCfwsUVh03YMc0Lflvgt/Vh5DcRS3W+HjrIuOO6434WhHNV5A/Yiz3jSF03sg52yNtYSrzSuml5Z6rC+kRybezRyy77ZyW8ZyGRuoO4r9h6XD391C17BYRAX2d5Fc5M9M3KAv+Fti2PZAJce1r+je4Wc8frB7x2PuW9rL82fKf5cJ2jFwvEnDl+1AWUcnYLPlW0rMB4U5vG+1aBK1lbebkpEZ2RJmFzd9IFXfbWCfGdCeuAQCAp0mwiHTMC2n5BNiaxG9jmDQofC+evyekJFQ0oe0GEXcL71o2B6sPIao1uCVrK/EsafLNtOdcyjYjmsxPCXxx+zeb17qdpYxCOuorsDMywIhxdKTG8vQ0kEY08T8z427NwqR7KUXjiYJupCYOpLyv222ZsRcy2vjMA2IO3nTGnC+RbRTMRqXghLwh9NtEhGj33mQVIzak15cnfq4hcGFrTdk/sXZgvyvtZ382kf47mpLdJ7eIlyCoVEFSK4LGqlyg8rRB47Y+Xy1rrz4qifB/5294LmESTFnLooikQiyx2Kcnq1H5ZQQ/9LTV490V16JWlNyolRndtRDthlyyralaNkA94iLRoijjAZ5WgFaBSvlmlSAguL8HlEubeoFmcCWz9KTUZaqWaLk/+efBsMkCv5p4wPVvFdXDXcGDmejyfqk0vk/gZ8t1lwpUMa2Kar6go5WekXtehoE+BzZklSD28JKTi1O91F5lUoLUqJ5PD78CBXlyVn4Z9bNm1cfjA/mPRbOCC5zqi572qHuZJuSj+BgZQqTI1G/KKnMQ0yE/t3VaON1eWmBa0NV5ANyj4KKrJUOadQBVdT2xD3iNImN4dMmbCmj6jDhNWP/w8Fyf55GOr0OGtrFF208P/ZaGn7hSB9Yq8szLJHvVGILJj8ry8MtB42eRoNBLvnK8/DGSJs6OV60MeVYbY/Tj6agHzkb1jfI17bwY3dyWiIFKRmtRJD2EkIfX/IOYdWmduSgd3j3E0QamP8LwxEAr9VcSEXY9Z4+836sNOInIevLuusJu+9TGaACNL/+ppTFMl1T8aEbYZszfKbBoDEb5sRUDBuYZv+95V8SAQ9AEKK6b2FHWagha3XfhMGHul8fqMnWT1lUxVXesQFKEYSTdvoMthy7avMl4prdSGUkYR4xo4GvBo9nSqAS+tAeoo6tNzuwgDguZMoMd0fQ05rQ6Rahj82+uvVVpnDHck0Zweq34hgDWu0I+kJU5jk3cBWTET0rG4YzB6yGQP9yEIhAmf3fodu27ostL3Y37IGcs53g8R/CCFE7WRhX/fFBHmwHGsR03UZ7Jry8sbfcphhthJt/UPnZ4NBBkPAj84wmSKF6LfaHwF7LRSNiTzLwDzB5OGkg+6hFj2YAiCT5u3jSS/57YV9Jmc7vZ4VxO1DsQd+M1SlI2H3RYmWz1z1rQo97btNWGd388Uhp+XhB5MWC1eWY1duW2FZYP019wAV5vO925XGzm2P7osXVKxtFyl/EeYxtsi+qieON05gRrTBou0YfiVZoBltChXT7xANCnR7zIZw7FXdkAdxCauVPN5eKe7tB1hB4QVKl4+FFPibBgw5eqjl1lYAS6uPl5FoCIVFjmjhXxql4MV4m7OuF2JivgVXZPyDBvrjomYB+4smf2/IQGKdzdaquiZ3AH1ImA+O7ikRl0/fYlzueaqV9TleZteLAEKCNbdawYibmLTtrCeeQmLoxzwYIcQkGSR5d/VhNSEXhSZ7zPHyo5PnXMqRj7gSf/7E0ogXil6pcicP604JD840/TkJ986Ee3hu9FUQEvO366sLwjL2Ky+NI+/MfiAti9VcGkIhHUtHgX8Ka5Ur9x+VYTW4RvqIFTfKACyo90XxhEum0acXsz8k6NFSs3NT75KAdgT5gQ==</data>
+    <data>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</data>
   </component>
 </application>
