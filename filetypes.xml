@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ApdNewDatabaseService" type="PHP" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="_htaccess" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
