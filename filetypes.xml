@@ -10,6 +10,7 @@
       <mapping pattern="haupt-real-gesamtschule" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="wpress" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="ese-modules" type="XML" />
       <mapping ext="xsp" type="XML" />
     </extensionMap>
