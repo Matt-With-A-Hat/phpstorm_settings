@@ -2,10 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[maehroboter-guru] - ...\wp-content\themes\nimaji\gulp\src\scss\theme.scss'" />
     <option name="defaultScopeName" value="File '[maehroboter-guru] - ...\wp-content\themes\nimaji\gulp\src\scss\theme.scss'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[maehroboter-guru] - ...\wp-content\themes\nimaji\gulp\src\scss\theme.scss'" />
     <recentFileMasks>
       <mask>*.properties</mask>
