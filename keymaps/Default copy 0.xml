@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="Console.TableResult.SetDefault" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+</keymap>
