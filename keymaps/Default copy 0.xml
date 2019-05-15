@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy 0" parent="$default">
+  <action id="AutoIndentLines" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -11,6 +12,9 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="OptimizeImports" />
+  <action id="PublishGroup.CompareLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
