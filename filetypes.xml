@@ -14,6 +14,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="wpress" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="tsconfig" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="ese-modules" type="XML" />
       <mapping ext="xsp" type="XML" />
