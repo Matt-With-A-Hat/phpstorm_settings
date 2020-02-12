@@ -13,8 +13,12 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="OptimizeImports" />
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="PublishGroup.SyncLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
