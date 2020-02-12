@@ -2,9 +2,21 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="PublishGroup.CompareLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
 </keymap>
