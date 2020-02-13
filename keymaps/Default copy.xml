@@ -1,0 +1,30 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="AutoIndentLines" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="EditorSelectWord" />
+  <action id="OptimizeImports" />
+  <action id="PublishGroup.CompareLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="PublishGroup.SyncLocalVsRemoteWith">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+</keymap>
