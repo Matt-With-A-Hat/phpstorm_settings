@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="AutoIndentLines" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -24,7 +25,11 @@
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="ShowUmlDiagramPopup" />
 </keymap>
