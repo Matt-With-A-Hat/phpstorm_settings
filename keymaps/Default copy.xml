@@ -3,6 +3,7 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -11,6 +12,9 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="EditorSelectWord" />
   <action id="OptimizeImports" />
+  <action id="PublishGroup.CompareLocalVsRemote">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
