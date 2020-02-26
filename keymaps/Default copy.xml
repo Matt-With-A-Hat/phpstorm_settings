@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -14,6 +19,11 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="OptimizeImports" />
   <action id="PublishGroup.SyncLocalVsRemoteWith">
