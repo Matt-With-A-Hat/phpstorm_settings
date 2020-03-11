@@ -24,6 +24,7 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -52,6 +53,9 @@
   <action id="OptimizeImports" />
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
