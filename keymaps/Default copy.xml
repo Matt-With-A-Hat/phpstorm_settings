@@ -23,6 +23,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="Console.History.Browse" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.SetDefault" />
   <action id="Editor Redo">
@@ -51,6 +52,7 @@
   <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorSelectWord" />
   <action id="OptimizeImports" />
+  <action id="PerforceDirect.Edit" />
   <action id="PublishGroup.CompareLocalVsRemote">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
@@ -67,4 +69,7 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="ShowUmlDiagramPopup" />
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
 </keymap>
