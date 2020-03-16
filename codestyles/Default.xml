@@ -1,1 +1,4 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <option name="RIGHT_MARGIN" value="1000" />
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+</code_scheme>
