@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e9a1a919-aeaf-490b-84e7-0ab3a3a04d99" name="wow.wireless-empire.de" url="http://wow.wireless-empire.de">
+        <fileTransfer host="wow.wireless-empire.de" port="21" rootFolder="/wow.wireless-empire.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
