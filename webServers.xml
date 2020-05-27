@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="ce82cbc7-bac6-4eb3-a384-b68feacb763b" name="maehroboter-guru.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/maehroboter-guru.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4f090fe4-1017-4011-bbf3-b6cac7b260b6" name="dev.maehroboter-guru.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/dev.maehroboter-guru.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="a521aae8-672d-468f-9997-cde3b0434961" name="dev2.wireless-empire.de" url="http://dev2.wireless-empire.de">
         <fileTransfer host="dev2.wireless-empire.de" port="21" rootFolder="/dev2.wireless-empire.de">
           <advancedOptions>
