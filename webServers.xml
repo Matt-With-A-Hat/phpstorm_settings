@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="fb747667-b679-488b-aad1-72f8bde11f75" name="intes-akademie.de [LIVE]" url="http://home666946784.1and1-data.host">
+        <fileTransfer host="home666946784.1and1-data.host" port="22" rootFolder="/typo3-intes-akademie2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cf417c5a-a23f-4e67-9d66-30ecc119ef8c" name="dev.intes-akademie.de [DEV]" url="http://home666946784.1and1-data.host">
+        <fileTransfer host="home666946784.1and1-data.host" port="22" rootFolder="/typo3-intes-akademie-dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="ce82cbc7-bac6-4eb3-a384-b68feacb763b" name="maehroboter-guru.de" url="http://w0154778.kasserver.com">
         <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/maehroboter-guru.de">
           <advancedOptions>
