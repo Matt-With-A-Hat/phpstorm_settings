@@ -58,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a43ed6c3-ac7b-440d-9a17-a58fc3afd5be" name="acabado.wireless-empire.de" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/dev.maehroboter-guru.de">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/acabado.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
