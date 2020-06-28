@@ -65,6 +65,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="95b908dc-d024-439e-a339-e778569b254c" name="robolever.wireless-empire.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/robolever.wireless-empire.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
