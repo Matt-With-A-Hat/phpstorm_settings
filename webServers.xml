@@ -97,6 +97,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dd4071ec-ff0d-4712-ad9f-e36b17ebdb76" name="si2.wireless-empire.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/si2.wireless-empire.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
