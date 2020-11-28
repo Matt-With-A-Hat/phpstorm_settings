@@ -68,9 +68,6 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt 1" />
-  </action>
   <action id="ShowUmlDiagramPopup" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
