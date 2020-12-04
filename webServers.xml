@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f6ad06fd-7854-4226-bf68-4eca3f84b7a5" name="dev2.robolever.com" url="http://ftp.robolever.com">
-        <fileTransfer host="ftp.robolever.com" port="21" rootFolder="/public_html/dev2">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="6a89b6db-31ab-45f3-9013-acce7c33163e" name="si-ernaehrungsinstitut.de" url="http://ftp.si-ernaehrungsinstitut.de">
         <fileTransfer host="ftp.si-ernaehrungsinstitut.de" port="21" rootFolder="/wp.si-ernaehrungsinstitut.de">
           <advancedOptions>
