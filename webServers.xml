@@ -81,12 +81,12 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="e6897176-93c8-4056-9131-5489e1eb0c0c" name="agency.wireless-empire.de" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/agency.wireless-empire.de">
+      <webServer id="e6897176-93c8-4056-9131-5489e1eb0c0c" name="agency.wireless-empire.de" url="http://159.89.83.207">
+        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="b05e70b9-f135-4269-8f4d-21c182fadf5b" name="si.wireless-empire.de" url="http://w0154778.kasserver.com">
