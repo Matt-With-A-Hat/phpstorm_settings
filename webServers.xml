@@ -105,6 +105,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6cf29d13-630c-45d5-a615-2cb788238e0a" name="dev.wireless-empire.de" url="http://159.89.83.207">
+        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
