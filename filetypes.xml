@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
+      <mapping ext="xsp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
