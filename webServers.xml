@@ -49,12 +49,12 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="bf6f0fad-7450-43af-a864-116bd3a5c8dc" name="swu.wireless-empire.de" url="http://swu.wireless-empire.de">
-        <fileTransfer host="swu.wireless-empire.de" port="21" rootFolder="/swu.wireless-empire.de">
+      <webServer id="bf6f0fad-7450-43af-a864-116bd3a5c8dc" name="swu.wireless-empire.de" url="http://159.89.83.207">
+        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="e9a1a919-aeaf-490b-84e7-0ab3a3a04d99" name="wow.wireless-empire.de" url="http://wow.wireless-empire.de">
