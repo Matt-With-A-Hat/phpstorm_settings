@@ -1,12 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="6a89b6db-31ab-45f3-9013-acce7c33163e" name="si-ernaehrungsinstitut.de" url="http://ftp.si-ernaehrungsinstitut.de">
-        <fileTransfer host="ftp.si-ernaehrungsinstitut.de" port="21" rootFolder="/wp.si-ernaehrungsinstitut.de">
+      <webServer id="6a89b6db-31ab-45f3-9013-acce7c33163e" name="si-ernaehrungsinstitut.de" url="http://138.68.65.120">
+        <fileTransfer host="138.68.65.120" port="22" rootFolder="/public_html" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="fb747667-b679-488b-aad1-72f8bde11f75" name="intes-akademie.de [LIVE]" url="http://home666946784.1and1-data.host">
