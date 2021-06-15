@@ -121,6 +121,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6eff8753-621c-44ef-ab19-c921967ad411" name="wireless-empire.de" url="http://159.89.83.207">
+        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html/wp-content/plugins" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
