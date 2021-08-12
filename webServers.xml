@@ -129,6 +129,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="15fb1113-9143-45c8-9dc2-8d8b160b5e68" name="dev2.maehroboter-guru.de" url="http://w0154778.kasserver.com">
+        <fileTransfer host="w0154778.kasserver.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
