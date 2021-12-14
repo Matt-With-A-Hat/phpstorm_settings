@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="$FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -13,7 +13,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="C:/Program Files/dart-sass/sass.bat" />
+      <option name="program" value="sass" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -33,6 +34,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Program Files/dart-sass/sass.bat" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -58,6 +60,7 @@
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="program" value="$USER_HOME$/AppData/Roaming/npm/lessc.cmd" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
@@ -77,6 +80,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="$USER_HOME$/AppData/Roaming/npm/uglifyjs.cmd" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
@@ -96,6 +100,7 @@
       </option>
       <option name="outputFromStdout" value="true" />
       <option name="program" value="C:/Program Files (x86)/Closure Compiler/closure-compiler-v20200719.jar" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
