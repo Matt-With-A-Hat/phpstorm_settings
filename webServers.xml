@@ -2,131 +2,115 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="6a89b6db-31ab-45f3-9013-acce7c33163e" name="si-ernaehrungsinstitut.de" url="http://138.68.65.120">
-        <fileTransfer host="138.68.65.120" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.65.120" port="22" sshConfigId="4e13742e-9f93-45c1-a501-539795e5f71a" sshConfig="si-ernaehrungsinstitut.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="fb747667-b679-488b-aad1-72f8bde11f75" name="intes-akademie.de [LIVE]" url="http://home666946784.1and1-data.host">
-        <fileTransfer host="home666946784.1and1-data.host" port="22" rootFolder="/typo3-intes-akademie2" accessType="SFTP">
+        <fileTransfer rootFolder="/typo3-intes-akademie2" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="cf417c5a-a23f-4e67-9d66-30ecc119ef8c" name="dev.intes-akademie.de [DEV]" url="http://home666946784.1and1-data.host">
-        <fileTransfer host="home666946784.1and1-data.host" port="22" rootFolder="/typo3-intes-akademie-dev" accessType="SFTP">
+        <fileTransfer rootFolder="/typo3-intes-akademie-dev" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="ce82cbc7-bac6-4eb3-a384-b68feacb763b" name="maehroboter-guru.de" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/maehroboter-guru.de">
+        <fileTransfer rootFolder="/maehroboter-guru.de" host="w0154778.kasserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="4f090fe4-1017-4011-bbf3-b6cac7b260b6" name="dev.maehroboter-guru.de" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/dev.maehroboter-guru.de">
+        <fileTransfer rootFolder="/dev.maehroboter-guru.de" host="w0154778.kasserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="a521aae8-672d-468f-9997-cde3b0434961" name="dev2.wireless-empire.de" url="http://dev2.wireless-empire.de">
-        <fileTransfer host="dev2.wireless-empire.de" port="21" rootFolder="/dev2.wireless-empire.de">
+        <fileTransfer rootFolder="/dev2.wireless-empire.de" host="dev2.wireless-empire.de" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="bf6f0fad-7450-43af-a864-116bd3a5c8dc" name="swu.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="ca7f4b8e-61e8-453f-aa22-c14e680a6666" sshConfig="swu.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="e9a1a919-aeaf-490b-84e7-0ab3a3a04d99" name="wow.wireless-empire.de" url="http://wow.wireless-empire.de">
-        <fileTransfer host="wow.wireless-empire.de" port="21" rootFolder="/wow.wireless-empire.de">
+        <fileTransfer rootFolder="/wow.wireless-empire.de" host="wow.wireless-empire.de" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="a43ed6c3-ac7b-440d-9a17-a58fc3afd5be" name="acabado.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="e7755985-833d-4e3c-a234-c33c4ab3b664" sshConfig="acabado.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="5c5bbd76-5dd9-4448-8542-e11e77323aaa" name="wow2.wireless-empire.de" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/wow2.wireless-empire.de">
+        <fileTransfer rootFolder="/wow2.wireless-empire.de" host="w0154778.kasserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="e6897176-93c8-4056-9131-5489e1eb0c0c" name="agency.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="635d63f1-907d-4d01-a0f3-65f253d99c1b" sshConfig="agency.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="b05e70b9-f135-4269-8f4d-21c182fadf5b" name="si.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="da34a091-50f1-4bc8-9e9f-8655418c45c7" sshConfig="si.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="7d524019-1b3f-41d0-b875-192addd56083" name="sibackup.wireless-empire.de" url="http://w0154778.kasserver.com">
-        <fileTransfer host="w0154778.kasserver.com" port="21" rootFolder="/sibackup.wireless-empire.de">
+        <fileTransfer rootFolder="/sibackup.wireless-empire.de" host="w0154778.kasserver.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="6cf29d13-630c-45d5-a615-2cb788238e0a" name="dev.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="fabe4a1c-8a33-4cb6-a296-f6f0a0b8ac93" sshConfig="dev.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="2f1d1681-8739-4c94-ae37-be1e8ed75a49" name="swu2.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="ef017e62-732a-4e8c-84d3-572902a7a607" sshConfig="swu2.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="6eff8753-621c-44ef-ab19-c921967ad411" name="wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer host="159.89.83.207" port="22" rootFolder="/public_html/" accessType="SFTP">
+        <fileTransfer rootFolder="/public_html/" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="091bde62-56be-4baa-93cc-c8115c70e68c" sshConfig="wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="15fb1113-9143-45c8-9dc2-8d8b160b5e68" name="dev2.maehroboter-guru.de" url="http://w0154778.kasserver.com">
@@ -134,7 +118,13 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fc4e515f-1759-4336-b74d-8c0ce0f6c3e6" name="swu3.wireless-empire.de" url="">
+        <fileTransfer rootFolder="/public_html/" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="e19a1e21-db65-4452-85f3-78e3345e421a" sshConfig="matt_swu3@159.89.83.207:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
         </fileTransfer>
       </webServer>
     </option>
