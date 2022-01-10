@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="cf417c5a-a23f-4e67-9d66-30ecc119ef8c" name="dev.intes-akademie.de [DEV]" url="http://home666946784.1and1-data.host">
-        <fileTransfer rootFolder="/typo3-intes-akademie-dev" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+        <fileTransfer rootFolder="/typo3-intes-akademie-dev-old" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -124,6 +124,13 @@
         <fileTransfer rootFolder="/public_html/" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="e19a1e21-db65-4452-85f3-78e3345e421a" sshConfig="matt_swu3@159.89.83.207:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7a833564-d9e6-451e-8066-1bb6cf1bf891" name="dev.intes-akademie.de" url="">
+        <fileTransfer rootFolder="/typo3-intes-akademie-dev" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
