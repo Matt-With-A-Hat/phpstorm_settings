@@ -121,7 +121,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="fc4e515f-1759-4336-b74d-8c0ce0f6c3e6" name="swu3.wireless-empire.de" url="">
-        <fileTransfer rootFolder="/public_html/" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="e19a1e21-db65-4452-85f3-78e3345e421a" sshConfig="matt_swu3@159.89.83.207:22 password">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="e19a1e21-db65-4452-85f3-78e3345e421a" sshConfig="matt_swu3@159.89.83.207:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
