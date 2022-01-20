@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="0c5ad8ae-6434-4ba6-952d-62ab3076d337" name="sailwithus.de" url="http://sftp.raidboxes.de">
+        <fileTransfer rootFolder="/62625_sailwithus/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="6a89b6db-31ab-45f3-9013-acce7c33163e" name="si-ernaehrungsinstitut.de" url="http://138.68.65.120">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.65.120" port="22" sshConfigId="4e13742e-9f93-45c1-a501-539795e5f71a" sshConfig="si-ernaehrungsinstitut.de">
           <advancedOptions>
