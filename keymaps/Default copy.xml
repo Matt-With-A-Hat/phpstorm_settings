@@ -4,9 +4,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ActivateRemoteHostToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
+  <action id="ActivateFindToolWindow" />
   <action id="AutoIndentLines" />
   <action id="ChangesView.UnshelveSilently" />
   <action id="CloseContent">
@@ -71,5 +69,8 @@
   <action id="ShowUmlDiagramPopup" />
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
 </keymap>
