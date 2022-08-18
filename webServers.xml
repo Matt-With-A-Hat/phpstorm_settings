@@ -116,7 +116,7 @@
       <webServer id="6eff8753-621c-44ef-ab19-c921967ad411" name="wireless-empire.de" url="http://159.89.83.207">
         <fileTransfer rootFolder="/public_html/" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="091bde62-56be-4baa-93cc-c8115c70e68c" sshConfig="wireless-empire.de">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
