@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="AUTO_DETECTED" />
       <mapping pattern="_htaccess-neu" type="AUTO_DETECTED" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.old" type="PLAIN_TEXT" />
