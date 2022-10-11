@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="fb747667-b679-488b-aad1-72f8bde11f75" name="intes-akademie.de [LIVE]" url="http://home666946784.1and1-data.host">
-        <fileTransfer rootFolder="/typo3-intes-akademie2" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+        <fileTransfer rootFolder="/intes-akademie-onepager" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
