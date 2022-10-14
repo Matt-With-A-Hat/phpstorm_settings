@@ -141,6 +141,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="40bac5f7-66ba-446e-9ff7-45b545ed2218" name="onepager.wireless-empire.de" url="http://home666946784.1and1-data.host">
+        <fileTransfer rootFolder="/intes-akademie-onepager" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
