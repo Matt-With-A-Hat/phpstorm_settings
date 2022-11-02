@@ -38,6 +38,9 @@
       <sshConfig authType="PASSWORD" host="159.89.83.207" id="c1e8943a-4d88-4f68-bc19-19ddaca4eb51" port="22" customName="swu-neu.wirelessempire.de" nameFormat="CUSTOM" username="matt_swun">
         <option name="customName" value="swu-neu.wirelessempire.de" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="159.89.83.207" id="d5705895-96c9-435e-a649-4d9ca9432470" port="22" customName="pixelriver.wirelessempire.de" nameFormat="CUSTOM" username="matt_pr">
+        <option name="customName" value="pixelriver.wirelessempire.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>
