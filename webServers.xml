@@ -142,14 +142,21 @@
         </fileTransfer>
       </webServer>
       <webServer id="40bac5f7-66ba-446e-9ff7-45b545ed2218" name="onepager.wireless-empire.de" url="http://home666946784.1and1-data.host">
-        <fileTransfer rootFolder="/intes-akademie-onepager" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+        <fileTransfer rootFolder="/onepager.intes-akademie.de" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="2a2eac5b-cffa-4ae1-bc2c-45525389091e" name="devonepager.intes-akademie.de" url="http://home666946784.1and1-data.host">
-        <fileTransfer rootFolder="/intes-akademie-devonepager" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+        <fileTransfer rootFolder="/devonepager.intes-akademie.de" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ccaa625b-46dd-417f-ad51-a6be80756662" name="clickdummy.intes-akademie.de" url="http://home666946784.1and1-data.host">
+        <fileTransfer rootFolder="/clickdummy.intes-akademie.de" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [LIVE]">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
