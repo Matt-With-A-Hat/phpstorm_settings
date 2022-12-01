@@ -169,6 +169,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="dc136566-f3fe-4b0a-9a33-c7158416ab36" name="swu-rebuild.wirelessempire.de" url="http://159.89.83.207">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="9124d9f4-ef26-4fff-b011-d9a179fa97b6" sshConfig="swu-rebuild.wirelessempire.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
