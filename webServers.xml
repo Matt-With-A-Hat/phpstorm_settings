@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="8597df65-a1ea-44b4-9717-8d456e6db239" name="intes.wirelessempire.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="9cd8e6bb-dc02-4c91-af84-0d2386a822ea" sshConfig="matt_intes@159.89.83.207:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="0c5ad8ae-6434-4ba6-952d-62ab3076d337" name="sailwithus.de" url="http://sftp.raidboxes.de">
         <fileTransfer rootFolder="/62625_sailwithus/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
           <advancedOptions>
