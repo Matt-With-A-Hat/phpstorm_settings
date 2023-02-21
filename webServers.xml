@@ -1,8 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="6e1b5a83-8448-48c1-93c1-e846d868947c" name="intes2.wirelessempire.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="intes2.wirelessempire.de" port="22" sshConfigId="cc23e9a6-c8ea-4b6b-9e5c-f062d41c0916" sshConfig="matt2_intes2@intes2.wirelessempire.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="8597df65-a1ea-44b4-9717-8d456e6db239" name="intes.wirelessempire.de">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="9cd8e6bb-dc02-4c91-af84-0d2386a822ea" sshConfig="matt_intes@159.89.83.207:22 password">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" sshConfigId="9cd8e6bb-dc02-4c91-af84-0d2386a822ea" sshConfig="matt_intes@159.89.83.207:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -180,6 +187,13 @@
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="159.89.83.207" port="22" sshConfigId="9124d9f4-ef26-4fff-b011-d9a179fa97b6" sshConfig="swu-rebuild.wirelessempire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7bcdd9b9-fa13-48df-af59-b3d024c1fc21" name="intes3.pxielriver.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="intes3.pixelriver.de" port="22" sshConfigId="fb42d781-1844-4390-939d-30dfe656454b" sshConfig="matt_intes3@intes3.pixelriver.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
