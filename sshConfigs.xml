@@ -44,7 +44,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="9124d9f4-ef26-4fff-b011-d9a179fa97b6" port="22" customName="swu-rebuild.wirelessempire.de" nameFormat="CUSTOM" username="matt_swure">
         <option name="customName" value="swu-rebuild.wirelessempire.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="intes2.wirelessempire.de" id="cc23e9a6-c8ea-4b6b-9e5c-f062d41c0916" port="22" nameFormat="DESCRIPTIVE" username="matt2_intes2" />
+      <sshConfig authType="PASSWORD" host="138.68.106.226" id="cc23e9a6-c8ea-4b6b-9e5c-f062d41c0916" port="22" nameFormat="DESCRIPTIVE" username="matt2_intes2" />
       <sshConfig authType="PASSWORD" host="intes3.pixelriver.de" id="fb42d781-1844-4390-939d-30dfe656454b" port="22" nameFormat="DESCRIPTIVE" username="matt_intes3" />
     </configs>
   </component>
