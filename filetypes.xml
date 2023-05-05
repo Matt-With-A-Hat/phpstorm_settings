@@ -6,6 +6,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.old" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dev" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="xsp" type="PLAIN_TEXT" />
       <removed_mapping ext="ahk" approved="true" type="PLAIN_TEXT" />
