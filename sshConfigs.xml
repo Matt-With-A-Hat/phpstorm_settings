@@ -32,8 +32,8 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sftp.raidboxes.de" id="0809f6ad-65d5-47fa-99a0-59dea1676a0c" port="22" customName="sailwithus.de" nameFormat="CUSTOM" username="RB963889">
         <option name="customName" value="sailwithus.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="152728b3-895b-473f-af21-09cf8e79bfdf" port="22" customName="mg.wireless-empire.de" nameFormat="CUSTOM" username="matt_maeh">
-        <option name="customName" value="mg.wireless-empire.de" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="152728b3-895b-473f-af21-09cf8e79bfdf" port="22" customName="mg.wirelessempire.de" nameFormat="CUSTOM" username="matt_mg">
+        <option name="customName" value="mg.wirelessempire.de" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="c1e8943a-4d88-4f68-bc19-19ddaca4eb51" port="22" customName="swu-neu.wirelessempire.de" nameFormat="CUSTOM" username="matt_swun">
         <option name="customName" value="swu-neu.wirelessempire.de" />
