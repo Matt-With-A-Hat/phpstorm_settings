@@ -4,8 +4,8 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.65.120" id="4e13742e-9f93-45c1-a501-539795e5f71a" port="22" customName="si-ernaehrungsinstitut.de" nameFormat="CUSTOM" username="si-ernaehrungsinstitut">
         <option name="customName" value="si-ernaehrungsinstitut.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="home666946784.1and1-data.host" id="83bdef59-4e0d-4cef-963c-9fc1c7343312" port="22" customName="intes-akademie.de [LIVE]" nameFormat="CUSTOM" username="u88092841-matmue">
-        <option name="customName" value="intes-akademie.de [LIVE]" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="home666946784.1and1-data.host" id="83bdef59-4e0d-4cef-963c-9fc1c7343312" port="22" customName="intes-akademie.de [Typo3]" nameFormat="CUSTOM" username="u88092841-matmue">
+        <option name="customName" value="intes-akademie.de [Typo3]" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="ca7f4b8e-61e8-453f-aa22-c14e680a6666" port="22" customName="swu.wireless-empire.de" nameFormat="CUSTOM" username="matt_swu">
         <option name="customName" value="swu.wireless-empire.de" />
