@@ -64,13 +64,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="bf6f0fad-7450-43af-a864-116bd3a5c8dc" name="swu.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="ca7f4b8e-61e8-453f-aa22-c14e680a6666" sshConfig="swu.wireless-empire.de">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="e9a1a919-aeaf-490b-84e7-0ab3a3a04d99" name="wow.wireless-empire.de" url="http://wow.wireless-empire.de">
         <fileTransfer rootFolder="/wow.wireless-empire.de" host="wow.wireless-empire.de" port="21">
           <advancedOptions>
