@@ -47,6 +47,9 @@
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="cc23e9a6-c8ea-4b6b-9e5c-f062d41c0916" port="22" nameFormat="DESCRIPTIVE" username="matt2_intes2" />
       <sshConfig authType="PASSWORD" host="intes3.pixelriver.de" id="fb42d781-1844-4390-939d-30dfe656454b" port="22" nameFormat="DESCRIPTIVE" username="matt_intes3" />
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="9cd8e6bb-dc02-4c91-af84-0d2386a822ea" port="22" nameFormat="DESCRIPTIVE" username="matt_intes" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="08e65830-325e-4bd5-80ff-9a6472d9ca7c" port="22" customName="messaround.pixelriver.de" nameFormat="CUSTOM" username="matt_messaround">
+        <option name="customName" value="messaround.pixelriver.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>
