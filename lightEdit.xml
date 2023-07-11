@@ -3,10 +3,11 @@
     <option name="sessionFiles">
       <list>
         <option value="file://D:/Stuff/disable-wordpress-core-update.php" />
+        <option value="file://D:/Stuff/wp-config.php" />
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="257" y="-14" width="1400" height="1000" extendedState="6" />
+      <frame x="257" y="0" width="1400" height="1000" extendedState="6" />
     </option>
   </component>
 </application>
