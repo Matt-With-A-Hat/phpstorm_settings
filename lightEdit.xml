@@ -2,12 +2,12 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file://D:/Stuff/disable-wordpress-core-update.php" />
         <option value="file://D:/Stuff/wp-config.php" />
+        <option value="file://D:/Downloads/Chrome/wordpress-6.2.2/wordpress/wp-config.php" />
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="257" y="0" width="1400" height="1000" extendedState="6" />
+      <frame x="-7" y="0" width="974" height="1055" />
     </option>
   </component>
 </application>
