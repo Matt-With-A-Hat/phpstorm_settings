@@ -50,6 +50,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="08e65830-325e-4bd5-80ff-9a6472d9ca7c" port="22" customName="messaround.pixelriver.de" nameFormat="CUSTOM" username="matt_messaround">
         <option name="customName" value="messaround.pixelriver.de" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="home666946784.1and1-data.host" id="2b7d4d8c-241d-410d-beb6-e8d7b4505973" port="22" customName="intes-akademie.de" nameFormat="CUSTOM" username="acc536808424">
+        <option name="customName" value="intes-akademie.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>

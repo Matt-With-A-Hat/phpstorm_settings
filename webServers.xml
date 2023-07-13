@@ -65,7 +65,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a43ed6c3-ac7b-440d-9a17-a58fc3afd5be" name="acabado.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="e7755985-833d-4e3c-a234-c33c4ab3b664" sshConfig="acabado.wireless-empire.de">
+        <fileTransfer accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="e7755985-833d-4e3c-a234-c33c4ab3b664" sshConfig="acabado.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
