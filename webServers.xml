@@ -163,9 +163,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="d3584e80-4785-419e-999c-59bfe5c77107" name="wordpress.intes-akademie.de" url="">
-        <fileTransfer rootFolder="/wordpress.intes-akademie.de" accessType="SFTP" host="home666946784.1and1-data.host" port="22" sshConfigId="83bdef59-4e0d-4cef-963c-9fc1c7343312" sshConfig="intes-akademie.de [Typo3]">
+        <fileTransfer rootFolder="/wordpress.intes-akademie.de" accessType="SFTP" host="intes-akademie.de" port="22" sshConfigId="2b7d4d8c-241d-410d-beb6-e8d7b4505973" sshConfig="acc536808424@intes-akademie.de:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
