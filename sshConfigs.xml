@@ -10,9 +10,6 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="ca7f4b8e-61e8-453f-aa22-c14e680a6666" port="22" customName="swu.wireless-empire.de" nameFormat="CUSTOM" username="matt_swu">
         <option name="customName" value="swu.wireless-empire.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="e7755985-833d-4e3c-a234-c33c4ab3b664" port="22" customName="acabado.wireless-empire.de" nameFormat="CUSTOM" username="mattaca">
-        <option name="customName" value="acabado.wireless-empire.de" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="635d63f1-907d-4d01-a0f3-65f253d99c1b" port="22" customName="agency.wireless-empire.de" nameFormat="CUSTOM" username="mattage">
         <option name="customName" value="agency.wireless-empire.de" />
       </sshConfig>
