@@ -13,8 +13,8 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="635d63f1-907d-4d01-a0f3-65f253d99c1b" port="22" customName="agency.wireless-empire.de" nameFormat="CUSTOM" username="mattage">
         <option name="customName" value="agency.wireless-empire.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="da34a091-50f1-4bc8-9e9f-8655418c45c7" port="22" customName="si.wireless-empire.de" nameFormat="CUSTOM" username="matt_si">
-        <option name="customName" value="si.wireless-empire.de" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="da34a091-50f1-4bc8-9e9f-8655418c45c7" port="22" customName="si.wirelessempire.de" nameFormat="CUSTOM" username="matt_si">
+        <option name="customName" value="si.wirelessempire.de" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="fabe4a1c-8a33-4cb6-a296-f6f0a0b8ac93" port="22" customName="dev.wireless-empire.de" nameFormat="CUSTOM" username="mattdev">
         <option name="customName" value="dev.wireless-empire.de" />
