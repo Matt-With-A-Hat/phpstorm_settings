@@ -4,10 +4,13 @@
       <list>
         <option value="file://D:/Stuff/wp-config.php" />
         <option value="file://D:/Downloads/Chrome/wordpress-6.2.2/wordpress/wp-config.php" />
+        <option value="file://D:/Dokumente/Arbeit/Kunden/Sailwithus/Skipper Portal/skipper backup/availabilities.html" />
+        <option value="file://D:/Dokumente/Arbeit/Kunden/Sailwithus/Skipper Portal/skipper backup/yachts.html" />
+        <option value="file://D:/Dokumente/Arbeit/Kunden/Sailwithus/Skipper Portal/skipper backup/documents.html" />
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="-7" y="0" width="974" height="1055" />
+      <frame x="0" y="0" width="974" height="1048" extendedState="6" />
     </option>
     <option name="preferredMode" value="LightEdit" />
   </component>
