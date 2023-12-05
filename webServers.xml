@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="8f39f2ae-8172-44f6-abff-a468f14b2633" name="swu.pixelriver.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="swu.pixelriver.de" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="matt_swu@swu.pixelriver.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="61577156-a5eb-4924-8dec-791e83184996" name="mg.wirelessempire.de">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="152728b3-895b-473f-af21-09cf8e79bfdf" sshConfig="mg.wirelessempire.de">
           <advancedOptions>
