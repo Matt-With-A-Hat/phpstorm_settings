@@ -50,7 +50,7 @@
       <sshConfig authType="PASSWORD" host="home666946784.1and1-data.host" id="2b7d4d8c-241d-410d-beb6-e8d7b4505973" port="22" customName="intes-akademie.de" nameFormat="CUSTOM" username="acc536808424">
         <option name="customName" value="intes-akademie.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="swu.pixelriver.de" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="matt_swu" />
+      <sshConfig authType="PASSWORD" host="swu.pixelriver.de" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="matt_swu2" />
     </configs>
   </component>
 </application>
