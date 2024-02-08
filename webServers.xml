@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="8f39f2ae-8172-44f6-abff-a468f14b2633" name="swu.pixelriver.de">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="swu.pixelriver.de" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="matt_swu2@swu.pixelriver.de:22 password">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="swu.pixelriver.de" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="matt_swu@swu.pixelriver.de:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
