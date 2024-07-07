@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ce82cbc7-bac6-4eb3-a384-b68feacb763b" name="maehroboter-guru.de" url="">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="12f67306-2af0-465a-bccc-98948a894688" sshConfig="maehroboter-guru.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" sshConfigId="12f67306-2af0-465a-bccc-98948a894688" sshConfig="maehroboter-guru.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
           </advancedOptions>
@@ -177,7 +177,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="97a7e6b4-80cd-4c07-a8b2-3a3be716f783" name="Copy sailwithus.de" url="http://sftp.raidboxes.de">
-        <fileTransfer rootFolder="/201519_kopie_der_box_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
+        <fileTransfer rootFolder="/203388_kopie_der_box_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
