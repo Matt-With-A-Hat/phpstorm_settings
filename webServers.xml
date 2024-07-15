@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="d6a13a73-1c01-407d-a52a-48383140a89f" name="intes.pixelriver.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="intes.pixelriver.de" port="22" sshConfigId="6b124f9e-efcc-4b6c-8538-133debf3efe8" sshConfig="matt_intes@intes.pixelriver.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="8f39f2ae-8172-44f6-abff-a468f14b2633" name="swu.pixelriver.de">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="swu.pixelriver.de" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="matt_swu@swu.pixelriver.de:22 password">
           <advancedOptions>
@@ -17,13 +24,6 @@
       </webServer>
       <webServer id="6e1b5a83-8448-48c1-93c1-e846d868947c" name="intes2.wirelessempire.de">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="cc23e9a6-c8ea-4b6b-9e5c-f062d41c0916" sshConfig="matt2_intes2@138.68.106.226:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="8597df65-a1ea-44b4-9717-8d456e6db239" name="intes.wirelessempire.de">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="9cd8e6bb-dc02-4c91-af84-0d2386a822ea" sshConfig="matt_intes@138.68.106.226:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ce82cbc7-bac6-4eb3-a384-b68feacb763b" name="maehroboter-guru.de" url="">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="12f67306-2af0-465a-bccc-98948a894688" sshConfig="maehroboter-guru.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" sshConfigId="12f67306-2af0-465a-bccc-98948a894688" sshConfig="maehroboter-guru.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
           </advancedOptions>
