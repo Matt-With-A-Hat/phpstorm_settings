@@ -184,7 +184,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b1ca1398-5c84-48d3-9417-a83dcff5be16" name="vaporizer-guru.de">
-        <fileTransfer accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="3e979e28-71fc-4e53-9b97-74c7211462cd" sshConfig="matt_vapo@138.68.106.226:22 password">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="3e979e28-71fc-4e53-9b97-74c7211462cd" sshConfig="matt_vapo@138.68.106.226:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
