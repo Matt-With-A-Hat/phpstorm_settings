@@ -52,6 +52,7 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" host="swu.pixelriver.de" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="matt_swu" />
       <sshConfig authType="PASSWORD" host="intes.pixelriver.de" id="6b124f9e-efcc-4b6c-8538-133debf3efe8" port="22" nameFormat="DESCRIPTIVE" username="matt_intes" />
+      <sshConfig authType="PASSWORD" host="138.68.106.226" id="3e979e28-71fc-4e53-9b97-74c7211462cd" port="22" nameFormat="DESCRIPTIVE" username="matt_vapo" />
     </configs>
   </component>
 </application>

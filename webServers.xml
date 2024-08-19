@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="ce82cbc7-bac6-4eb3-a384-b68feacb763b" name="maehroboter-guru.de">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="12f67306-2af0-465a-bccc-98948a894688" sshConfig="maehroboter-guru.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" sshConfigId="12f67306-2af0-465a-bccc-98948a894688" sshConfig="maehroboter-guru.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
           </advancedOptions>
@@ -180,6 +180,13 @@
         <fileTransfer rootFolder="/203388_kopie_der_box_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b1ca1398-5c84-48d3-9417-a83dcff5be16" name="vaporizer-guru.de">
+        <fileTransfer accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="3e979e28-71fc-4e53-9b97-74c7211462cd" sshConfig="matt_vapo@138.68.106.226:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
