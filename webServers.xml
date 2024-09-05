@@ -183,6 +183,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6e7e5ebd-aaea-4318-b52b-5f0b7b66f666" name="SWU Toernfinder">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="4f105648-9cc4-4f06-8d54-d1fc265ffe5f" sshConfig="toernfinder.pixelriver.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
