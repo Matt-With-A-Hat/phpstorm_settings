@@ -204,6 +204,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ae2a1faf-7a61-432c-b2ed-80373b65732d" name="138.68.106.226">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="4a1e44e6-6de7-4d89-b03a-201f65704d7b" sshConfig="si.pixelriver.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

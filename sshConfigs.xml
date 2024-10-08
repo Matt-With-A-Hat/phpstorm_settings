@@ -62,6 +62,9 @@
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="e2c5206e-d23e-404b-b24d-9c8358bc562d" port="22" customName="swudata.pixelriver.de" nameFormat="CUSTOM" username="matt_swudata">
         <option name="customName" value="swudata.pixelriver.de" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="138.68.106.226" id="4a1e44e6-6de7-4d89-b03a-201f65704d7b" port="22" customName="si.pixelriver.de" nameFormat="CUSTOM" username="matt_si">
+        <option name="customName" value="si.pixelriver.de" />
+      </sshConfig>
     </configs>
   </component>
 </application>
