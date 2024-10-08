@@ -71,13 +71,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="b05e70b9-f135-4269-8f4d-21c182fadf5b" name="si.wirelessempire.de" url="http://159.89.83.207">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="da34a091-50f1-4bc8-9e9f-8655418c45c7" sshConfig="si.wirelessempire.de">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="7d524019-1b3f-41d0-b875-192addd56083" name="sibackup.wireless-empire.de" url="http://w0154778.kasserver.com">
         <fileTransfer rootFolder="/sibackup.wireless-empire.de" host="w0154778.kasserver.com" port="21">
           <advancedOptions>
@@ -204,7 +197,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="ae2a1faf-7a61-432c-b2ed-80373b65732d" name="138.68.106.226">
+      <webServer id="ae2a1faf-7a61-432c-b2ed-80373b65732d" name="si.pixelriver.de">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="4a1e44e6-6de7-4d89-b03a-201f65704d7b" sshConfig="si.pixelriver.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
