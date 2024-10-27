@@ -155,13 +155,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="d54568ef-b0a4-4123-84db-e3e05d72f8bc" name="swu2.pixelriver.de">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="swu.pixelriver.de" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="matt_swu@swu.pixelriver.de:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="97a7e6b4-80cd-4c07-a8b2-3a3be716f783" name="Copy sailwithus.de" url="http://sftp.raidboxes.de">
         <fileTransfer rootFolder="/203388_kopie_der_box_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
           <advancedOptions>
