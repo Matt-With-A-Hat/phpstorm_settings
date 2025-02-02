@@ -1,13 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d6a13a73-1c01-407d-a52a-48383140a89f" name="intes.pixelriver.de">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="intes.pixelriver.de" port="22" sshConfigId="6b124f9e-efcc-4b6c-8538-133debf3efe8" sshConfig="matt_intes@intes.pixelriver.de:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="61577156-a5eb-4924-8dec-791e83184996" name="mg.wirelessempire.de">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="152728b3-895b-473f-af21-09cf8e79bfdf" sshConfig="mg.wirelessempire.de">
           <advancedOptions>
@@ -173,13 +166,6 @@
         <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="e2c5206e-d23e-404b-b24d-9c8358bc562d" sshConfig="swudata.pixelriver.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="ae2a1faf-7a61-432c-b2ed-80373b65732d" name="si.pixelriver.de" url="http://92.205.237.206">
-        <fileTransfer rootFolder="/si.pixelriver.de">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
