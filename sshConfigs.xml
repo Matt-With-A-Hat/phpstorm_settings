@@ -16,13 +16,6 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="home666946784.1and1-data.host" id="83bdef59-4e0d-4cef-963c-9fc1c7343312" port="22" customName="intes-akademie.de [Typo3]" nameFormat="CUSTOM" username="u88092841-matmue">
         <option name="customName" value="intes-akademie.de [Typo3]" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="138.68.106.226" id="cc23e9a6-c8ea-4b6b-9e5c-f062d41c0916" port="22" nameFormat="DESCRIPTIVE" username="matt2_intes2" />
-      <sshConfig authType="PASSWORD" host="intes3.pixelriver.de" id="fb42d781-1844-4390-939d-30dfe656454b" port="22" nameFormat="DESCRIPTIVE" username="matt_intes3" />
-      <sshConfig authType="PASSWORD" host="138.68.106.226" id="9cd8e6bb-dc02-4c91-af84-0d2386a822ea" port="22" nameFormat="DESCRIPTIVE" username="matt_intes" />
-      <sshConfig authType="PASSWORD" host="intes.pixelriver.de" id="6b124f9e-efcc-4b6c-8538-133debf3efe8" port="22" nameFormat="DESCRIPTIVE" username="matt_intes" />
-      <sshConfig authType="PASSWORD" host="138.68.106.226" id="e19a1e21-db65-4452-85f3-78e3345e421a" port="22" nameFormat="DESCRIPTIVE" username="matt_swu3" />
-      <sshConfig authType="PASSWORD" host="swu.pixelriver.de" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="matt_swu" />
-      <sshConfig authType="PASSWORD" host="138.68.106.226" id="3e979e28-71fc-4e53-9b97-74c7211462cd" port="22" nameFormat="DESCRIPTIVE" username="matt_vapo" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="08e65830-325e-4bd5-80ff-9a6472d9ca7c" port="22" customName="messaround.pixelriver.de" nameFormat="CUSTOM" username="matt_messaround">
         <option name="customName" value="messaround.pixelriver.de" />
       </sshConfig>
