@@ -58,6 +58,7 @@
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="091bde62-56be-4baa-93cc-c8115c70e68c" port="22" customName="wireless-empire.de" nameFormat="CUSTOM" username="matt_we">
         <option name="customName" value="wireless-empire.de" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="mattcraft_pixelriver" />
     </configs>
   </component>
 </application>
