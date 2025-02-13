@@ -52,9 +52,6 @@
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="e2c5206e-d23e-404b-b24d-9c8358bc562d" port="22" customName="swudata.pixelriver.de" nameFormat="CUSTOM" username="matt_swudata">
         <option name="customName" value="swudata.pixelriver.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="138.68.106.226" id="4f105648-9cc4-4f06-8d54-d1fc265ffe5f" port="22" customName="toernfinder.pixelriver.de" nameFormat="CUSTOM" username="matt_toern">
-        <option name="customName" value="toernfinder.pixelriver.de" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="091bde62-56be-4baa-93cc-c8115c70e68c" port="22" customName="wireless-empire.de" nameFormat="CUSTOM" username="matt_we">
         <option name="customName" value="wireless-empire.de" />
       </sshConfig>
