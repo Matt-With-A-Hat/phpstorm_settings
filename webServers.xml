@@ -162,6 +162,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="bc93f501-172f-4b22-8086-1f2481b8037d" name="pixelriver.de" url="">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
