@@ -56,6 +56,9 @@
         <option name="customName" value="wireless-empire.de" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="mattcraft_pixelriver" />
+      <sshConfig authType="PASSWORD" host="dedi6667.your-server.de" id="0132d300-78da-4e14-ac31-e1e933439516" port="22" customName="SWU Skipperportal" nameFormat="CUSTOM" username="sailwl_0">
+        <option name="customName" value="SWU Skipperportal" />
+      </sshConfig>
     </configs>
   </component>
 </application>

@@ -190,6 +190,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ad7b59b9-bfd8-446b-8354-1e7c3446a939" name="SWU Skipperportal">
+        <fileTransfer accessType="SFTP" host="dedi6667.your-server.de" port="22" sshConfigId="0132d300-78da-4e14-ac31-e1e933439516" sshConfig="SWU Skipperportal">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
