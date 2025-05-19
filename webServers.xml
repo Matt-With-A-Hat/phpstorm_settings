@@ -198,7 +198,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b0289d60-efae-4840-ad02-1db6ae435e36" name="synaptive.de" url="http://92.205.237.206">
-        <fileTransfer rootFolder="/httpdocs" host="92.205.237.206" port="21">
+        <fileTransfer rootFolder="/httpdocs">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
