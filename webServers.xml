@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="cc2d4130-752c-4733-8424-07cc6b1795d7" name="swu.pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu.pixelriver.de" accessType="SFTP" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -58,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e6897176-93c8-4056-9131-5489e1eb0c0c" name="agency.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer rootFolder="/public_html" accessType="SFTP" host="138.68.106.226" port="22" sshConfigId="635d63f1-907d-4d01-a0f3-65f253d99c1b" sshConfig="agency.wireless-empire.de">
+        <fileTransfer rootFolder="/public_html" accessType="SFTP" sshConfigId="635d63f1-907d-4d01-a0f3-65f253d99c1b" sshConfig="agency.wireless-empire.de">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
@@ -135,7 +135,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="7bcdd9b9-fa13-48df-af59-b3d024c1fc21" name="intes3.pxielriver.de">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -163,21 +163,21 @@
         </fileTransfer>
       </webServer>
       <webServer id="bc93f501-172f-4b22-8086-1f2481b8037d" name="pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes2.pixelriver.de" accessType="SFTP" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="7a4bb7a5-2626-45ac-a882-7541dba1f0f0" name="intes3.pixelriver.de">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="5ed15f36-f491-47bc-84c7-278d1bdb2550" name="app.pixelriver.de">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/app.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/app.pixelriver.de" accessType="SFTP" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -191,16 +191,16 @@
         </fileTransfer>
       </webServer>
       <webServer id="402ee326-8029-4c3d-ade0-4f6d70b1fdc2" name="swu2.pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu2.pixelriver.de" accessType="SFTP" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="b0289d60-efae-4840-ad02-1db6ae435e36" name="synaptive.de" url="http://92.205.237.206">
-        <fileTransfer rootFolder="/httpdocs" host="92.205.237.206" port="21">
+      <webServer id="b0289d60-efae-4840-ad02-1db6ae435e36" name="synaptive.de" url="">
+        <fileTransfer rootFolder="/var/www/vhosts/synaptive.de/httpdocs" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="08a2754b-2ac1-4529-b89d-4e750d484b63" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

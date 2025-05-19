@@ -1,9 +1,6 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="635d63f1-907d-4d01-a0f3-65f253d99c1b" port="22" customName="agency.wireless-empire.de" nameFormat="CUSTOM" username="mattage">
-        <option name="customName" value="agency.wireless-empire.de" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="6848d402-acd6-4bcc-aef9-af64e177bbb7" port="22" customName="app.pixelriver.de" nameFormat="CUSTOM" username="matt_app">
         <option name="customName" value="app.pixelriver.de" />
       </sshConfig>
@@ -54,9 +51,6 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" host="138.68.106.226" id="091bde62-56be-4baa-93cc-c8115c70e68c" port="22" customName="wireless-empire.de" nameFormat="CUSTOM" username="matt_we">
         <option name="customName" value="wireless-empire.de" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" customName="synaptive@92.205.237.206:22" nameFormat="CUSTOM" username="synaptive.de_ejskcs23yz">
-        <option name="customName" value="synaptive@92.205.237.206:22" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dedi6667.your-server.de" id="0132d300-78da-4e14-ac31-e1e933439516" port="22" customName="SWU Skipperportal" nameFormat="CUSTOM" username="sailwl_0">
         <option name="customName" value="SWU Skipperportal" />
