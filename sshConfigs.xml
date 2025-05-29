@@ -19,9 +19,6 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="138.68.106.226" id="152728b3-895b-473f-af21-09cf8e79bfdf" port="22" customName="mg.wirelessempire.de" nameFormat="CUSTOM" username="matt_mg">
         <option name="customName" value="mg.wirelessempire.de" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="138.68.106.226" id="d5705895-96c9-435e-a649-4d9ca9432470" port="22" customName="pixelriver.de" nameFormat="CUSTOM" username="matt_pr">
-        <option name="customName" value="pixelriver.de" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sftp.raidboxes.de" id="0809f6ad-65d5-47fa-99a0-59dea1676a0c" port="22" customName="sailwithus.de" nameFormat="CUSTOM" username="RB963889">
         <option name="customName" value="sailwithus.de" />
       </sshConfig>
