@@ -198,7 +198,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b0289d60-efae-4840-ad02-1db6ae435e36" name="synaptive.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/synaptive.de/httpdocs" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="08a2754b-2ac1-4529-b89d-4e750d484b63" sshConfig="synaptive@92.205.237.206:22">
+        <fileTransfer rootFolder="/var/www/vhosts/synaptive.de/httpdocs" accessType="SFTP" sshConfigId="08a2754b-2ac1-4529-b89d-4e750d484b63" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
