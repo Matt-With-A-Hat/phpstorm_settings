@@ -52,6 +52,9 @@
       <sshConfig authType="PASSWORD" host="dedi6667.your-server.de" id="0132d300-78da-4e14-ac31-e1e933439516" port="22" customName="SWU Skipperportal" nameFormat="CUSTOM" username="sailwl_0">
         <option name="customName" value="SWU Skipperportal" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sftp.raidboxes.de" id="0ae21f7d-646e-439b-bcad-c97aec56c851" port="22" customName="sailwithus.de Clone" nameFormat="CUSTOM" username="RB689985">
+        <option name="customName" value="sailwithus.de Clone" />
+      </sshConfig>
     </configs>
   </component>
 </application>

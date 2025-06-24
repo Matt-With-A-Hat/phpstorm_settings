@@ -163,7 +163,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="bc93f501-172f-4b22-8086-1f2481b8037d" name="pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/httpdocs" accessType="SFTP" host="pixelriver.de" port="22" sshConfigId="51588fe8-80bb-441c-9b05-bf6b487ccd13" sshConfig="mattcraft_pixelriver@pixelriver.de:22 password">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/httpdocs" accessType="SFTP" sshConfigId="51588fe8-80bb-441c-9b05-bf6b487ccd13" sshConfig="mattcraft_pixelriver@pixelriver.de:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -201,6 +201,13 @@
         <fileTransfer rootFolder="/var/www/vhosts/synaptive.de/httpdocs" accessType="SFTP" sshConfigId="08a2754b-2ac1-4529-b89d-4e750d484b63" sshConfig="synaptive@92.205.237.206:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="39807110-35fd-4e91-8454-9655cca3988a" name="sailwithus.de Clone">
+        <fileTransfer rootFolder="/257782_kopie_der_box_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0ae21f7d-646e-439b-bcad-c97aec56c851" sshConfig="sailwithus.de Clone">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
