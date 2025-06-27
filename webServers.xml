@@ -191,9 +191,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="402ee326-8029-4c3d-ade0-4f6d70b1fdc2" name="swu2.pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 key" keyPair="true">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="d66bd8c7-581b-4109-864f-71f3e42d2447" sshConfig="matt_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
