@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="cc2d4130-752c-4733-8424-07cc6b1795d7" name="swu.pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 key" keyPair="true">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -135,7 +135,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="7bcdd9b9-fa13-48df-af59-b3d024c1fc21" name="intes3.pxielriver.de">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 key" keyPair="true">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -170,14 +170,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="7a4bb7a5-2626-45ac-a882-7541dba1f0f0" name="intes3.pixelriver.de">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 key" keyPair="true">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/intes3.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="5ed15f36-f491-47bc-84c7-278d1bdb2550" name="app.pixelriver.de">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/app.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 key" keyPair="true">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/app.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -190,10 +190,10 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="402ee326-8029-4c3d-ade0-4f6d70b1fdc2" name="swu2.pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="d66bd8c7-581b-4109-864f-71f3e42d2447" sshConfig="matt_pixelriver@92.205.237.206:22 password">
+      <webServer id="402ee326-8029-4c3d-ade0-4f6d70b1fdc2" name="swu2.pixelriver.de" url="http://92.205.237.206">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/swu2.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

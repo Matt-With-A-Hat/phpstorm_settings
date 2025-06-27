@@ -28,7 +28,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="sftp.raidboxes.de" id="0ae21f7d-646e-439b-bcad-c97aec56c851" port="22" customName="sailwithus.de Clone" nameFormat="CUSTOM" username="RB689985">
         <option name="customName" value="sailwithus.de Clone" />
       </sshConfig>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="f58aa6e2-8959-4772-983f-f576f7ccc163" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="mattcraft_pixelriver" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="mattcraft_pixelriver" />
     </configs>
   </component>
 </application>
