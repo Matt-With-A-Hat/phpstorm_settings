@@ -50,13 +50,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="a43ed6c3-ac7b-440d-9a17-a58fc3afd5be" name="acabado.wireless-empire.de" url="http://159.89.83.207">
-        <fileTransfer accessType="SFTP" sshConfigId="e7755985-833d-4e3c-a234-c33c4ab3b664" sshConfig="acabado.wireless-empire.de">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="e6897176-93c8-4056-9131-5489e1eb0c0c" name="agency.wireless-empire.de" url="http://159.89.83.207">
         <fileTransfer rootFolder="/public_html" accessType="SFTP" sshConfigId="635d63f1-907d-4d01-a0f3-65f253d99c1b" sshConfig="agency.wireless-empire.de">
           <advancedOptions>
@@ -206,6 +199,13 @@
       </webServer>
       <webServer id="39807110-35fd-4e91-8454-9655cca3988a" name="sailwithus.de Clone">
         <fileTransfer rootFolder="/257782_kopie_der_box_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0ae21f7d-646e-439b-bcad-c97aec56c851" sshConfig="sailwithus.de Clone">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="Host Europe (PixelRiver etc.)">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
