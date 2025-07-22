@@ -29,6 +29,7 @@
         <option name="customName" value="sailwithus.de Clone" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="f58aa6e2-8959-4772-983f-f576f7ccc163" port="22" nameFormat="DESCRIPTIVE" username="mattcraft_pixelriver" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="92.205.237.206" id="9571a43c-0ea4-4fa4-9e7e-afada460ea30" port="22" nameFormat="DESCRIPTIVE" username="thinkstartup_admin" />
     </configs>
   </component>
 </application>

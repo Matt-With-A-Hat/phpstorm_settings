@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="c62f6966-f193-4567-b542-d0e2da2329ca" name="thinkstartup.de" url="">
+        <fileTransfer rootFolder="/var/www/vhosts/thinkstartup.de/httpdocs" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="9571a43c-0ea4-4fa4-9e7e-afada460ea30" sshConfig="thinkstartup_admin@92.205.237.206:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="0f194ce6-a4dc-44f6-96a4-688ac8431e3f" name="sailwithus.de">
         <fileTransfer rootFolder="/198497_sailwithus_pro/wordpress" accessType="SFTP" host="sftp.raidboxes.de" port="22" sshConfigId="0809f6ad-65d5-47fa-99a0-59dea1676a0c" sshConfig="sailwithus.de">
           <advancedOptions>
@@ -206,6 +213,13 @@
       </webServer>
       <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="Host Europe (PixelRiver etc.)">
         <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a21a1aac-493e-495e-8a88-b8f8275dbd5c" name="hub.thinkstartup.de" url="">
+        <fileTransfer rootFolder="/var/www/vhosts/thinkstartup.de/hub.thinkstartup.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="9571a43c-0ea4-4fa4-9e7e-afada460ea30" sshConfig="thinkstartup_admin@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
