@@ -211,7 +211,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="travel-pro.io">
+      <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="travel-pro.io/blog/">
         <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io/blog" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -220,6 +220,13 @@
       </webServer>
       <webServer id="a21a1aac-493e-495e-8a88-b8f8275dbd5c" name="hub.thinkstartup.de" url="">
         <fileTransfer rootFolder="/var/www/vhosts/thinkstartup.de/hub.thinkstartup.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="9571a43c-0ea4-4fa4-9e7e-afada460ea30" sshConfig="thinkstartup_admin@92.205.237.206:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d3f4dacd-d940-4ae6-89d5-b9304a51ae7e" name="travel-pro.io">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io/" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
