@@ -211,8 +211,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="Host Europe (PixelRiver etc.)">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
+      <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="travel-pro.io">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io/blog" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
