@@ -163,9 +163,9 @@
         </fileTransfer>
       </webServer>
       <webServer id="bc93f501-172f-4b22-8086-1f2481b8037d" name="pixelriver.de" url="">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/httpdocs" accessType="SFTP" sshConfigId="51588fe8-80bb-441c-9b05-bf6b487ccd13" sshConfig="mattcraft_pixelriver@pixelriver.de:22 password">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/httpdocs" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -211,13 +211,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="07d08edc-c5b5-480c-9a27-ee9e05e56892" name="travel-pro.io/blog/">
-        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/travel-pro.io/blog" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="a21a1aac-493e-495e-8a88-b8f8275dbd5c" name="hub.thinkstartup.de" url="">
         <fileTransfer rootFolder="/var/www/vhosts/thinkstartup.de/hub.thinkstartup.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="9571a43c-0ea4-4fa4-9e7e-afada460ea30" sshConfig="thinkstartup_admin@92.205.237.206:22 password">
           <advancedOptions>
@@ -234,6 +227,13 @@
       </webServer>
       <webServer id="21ef0742-729b-43b3-a0e1-7283074cd633" name="tp.pixelriver.de">
         <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/tp.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e58520c5-bea4-4dcc-9141-8e82958b5e80" name="colors.pixelriver.de" url="">
+        <fileTransfer rootFolder="/var/www/vhosts/pixelriver.de/colors.pixelriver.de" accessType="SFTP" host="92.205.237.206" port="22" sshConfigId="f58aa6e2-8959-4772-983f-f576f7ccc163" sshConfig="mattcraft_pixelriver@92.205.237.206:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
