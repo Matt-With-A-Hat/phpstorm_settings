@@ -225,6 +225,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="4f38045c-8665-460f-9b52-81d9c8696928" name="intes2.pixelriver.de" url="http://92.205.237.206">
+        <fileTransfer rootFolder="/intes2.pixelriver.de" host="92.205.237.206" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
